@@ -166,6 +166,29 @@
     - https://www.meetup.com/awakatech/
     - https://www.linkedin.com/company/awakatech
 
+- name: "ACM UPV Chapter"
+  image: acm.png
+  links:
+    - https://www.linkedin.com/company/acmupv
+    - https://www.instagram.com/acmupv
+
+- name: "Healthtech Community Valencia"
+  image: healthtech_community.png
+  links:
+    - https://healthtechcommunity.eu/
+    - https://www.linkedin.com/company/healthtech-community-valencia
+
+- name: "Impulso UX"
+  image: impulso_ux.svg
+  links:
+    - https://www.linkedin.com/company/impulsoux
+    - https://www.instagram.com/impulsoux/
+
+- name: "QA Breakfast"
+  image: qa_breakfast.png
+  links:
+    - https://www.eventbrite.com/e/qa-breakfast-valencia-at-ringcentral-office-tickets-1707709598379
+
 # non-participating communities
 
 # - name: HackValencia%27
