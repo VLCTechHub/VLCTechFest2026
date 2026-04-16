@@ -116,11 +116,6 @@
     - https://twitter.com/VlcJS
     - https://www.meetup.com/ValenciaJS/
 
-- name: Ministry of Testing
-  image: mot_valencia.jpg
-  links:
-      - https://www.meetup.com/mot-valencia
-
 - name: PHP Valencia
   image: phpvalencia_logo.png
   links:
