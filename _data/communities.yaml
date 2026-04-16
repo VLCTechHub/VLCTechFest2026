@@ -184,6 +184,11 @@
     - https://www.linkedin.com/company/impulsoux
     - https://www.instagram.com/impulsoux/
 
+- name: "VLC Quality Club"
+  image: vlc_quality_club.png
+  links:
+    - https://www.meetup.com/vlcqualityclub
+
 - name: "QA Breakfast"
   image: qa_breakfast.png
   links:
