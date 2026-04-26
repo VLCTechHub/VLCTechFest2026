@@ -1,0 +1,12 @@
+{%- assign openspace = site.data.openspace[page.lang] -%}
+<section id="openspace" class="section-pink">
+  <div class="wrapper">
+    <article>
+      <h1>{{ openspace.title }}</h1>
+      <p>{{ openspace.description }}</p>
+      <a class="button" href="{{ site.baseurl }}/es/openspace.html">
+        {{ openspace.button }}
+      </a>
+    </article>
+  </div>
+</section>
