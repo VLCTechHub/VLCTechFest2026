@@ -126,22 +126,22 @@
 - startTime: "12:00"
   endTime: "13:00"
   room: Sala Polivalente
-  language: "es"
-  title: "TDD con IA: el veterano y el influencer que no se ponen de acuerdo (pero escriben tests)"
+  language: "Talk in English 🇬🇧"
+  title: "TDD with AI: the veteran and the influencer who can’t agree (but still write tests)"
   description: |-
-    Un veterano que escribía tests antes de que tú nacieras y un influencer que convierte cada pull request en contenido. Juntos, improbablemente, tienen algo útil que enseñarte.
+    A veteran who was writing tests before you were born and an influencer who turns every pull request into content. Together, improbably, they have something useful to teach you.
 
-    En esta charla vamos a hacer lo que nadie nos pidió: sentarnos juntos a hacer TDD con IA y contaros qué pasa cuando el ciclo red-green-refactor lo ejecutas con un copiloto que a veces alucina.
+    In this talk we’re going to do what nobody asked us to do: sit down together to practice TDD with AI and show what happens when you run the red-green-refactor cycle with a copilot that sometimes hallucinates.
 
-    Hablaremos de cómo pedirle tests a una IA sin que te devuelva algo que pasa pero no prueba nada. De por qué el código generado también necesita ser revisado. El veterano lleva décadas diciéndolo, pero ahora tiene razón por motivos nuevos. Y de cuándo el TDD con IA acelera de verdad y cuándo solo te da la confianza falsa de ver barras verdes.
+    We’ll talk about how to ask an AI for tests without it giving you something that passes but proves nothing. Why generated code also needs to be reviewed. The veteran has been saying this for decades, but now he’s right for new reasons. And when TDD with AI truly speeds things up—and when it just gives you the false confidence of seeing green bars.
 
-    No es una charla de hype. No vamos a deciros que la IA va a reemplazar a nadie. Vamos a enseñaros dónde funciona, dónde estorba, y por qué el criterio del desarrollador sigue siendo lo que separa un test útil de uno decorativo.
+    This isn’t a hype talk. We’re not going to tell you AI will replace anyone. We’re going to show you where it works, where it gets in the way, and why a developer’s judgment is still what separates a useful test from a decorative one.
   speaker:
     - name: "Emilio Carrión, Alex Fuentes"
       bio: |-
-        Emilio Carrión: Staff Engineer en Mercadona Tech y doctorando en la UPV. Creador de contenido técnico que convierte cada decisión de arquitectura en un post de LinkedIn. Sigue convencido de que el código es un medio, no un fin, aunque a veces el medio le lleva 45 minutos de scroll. 
+        Emilio Carrión: Staff Engineer at Mercadona Tech and PhD candidate at UPV. A technical content creator who turns every architecture decision into a LinkedIn post. Still convinced that code is a means, not an end—although sometimes the means costs him 45 minutes of scrolling.
 
-        Alex Fuentes: Staff Frontend Engineer en Mercadona Tech. Lleva tantos años haciendo TDD con React que ya no recuerda cómo se programa sin escribir primero un test. Dice que la IA está bien, pero que un buen test lo sigue escribiendo mejor una persona con café.
+        Alex Fuentes: Staff Frontend Engineer at Mercadona Tech. He’s been doing TDD with React for so many years that he no longer remembers how to program without writing a test first. He says AI is fine, but a good test is still better written by a person with coffee.
       # photo: /images/speakers/zeroycia.jpeg
       # links:
       #   - https://www.linkedin.com/in/jorge-borja-valdivia-249651bb/
@@ -252,7 +252,7 @@
 - startTime: "16:00"
   endTime: "17:00"
   room: Sala Polivalente
-  language: "Talk in English 🇬🇧"
+  language: "es"
   title: "Código abierto en el mundo de los videojuegos"
   description: |-
     El código abierto es muy popular en la industria de la tecnología, pero el mundo de los videojuegos sigue viviendo en el pasado. En esta charla quiero explicar un poco como trabajamos en Godot Engine y como esta cambiando el paradigma.
