@@ -9,105 +9,113 @@
   endTime: "10:30"
   room: Sala Polivalente
   language: "es"
-  title: "Autogenerar o no autogenerar, esa es la cuestión"
+  title: "La Techrreta: cómo es el ecosistema tech valenciano (y cómo nos gustaría que fuera)"
   description: |-
-    En esta charla, compartiré mi experiencia trabajando con código autogenerado haciendo una gema en ruby para OpenFGA. Aprenderemos comparando código escrito por mi y código auto-generado y exploraremos si compensa tener mas automatización a costa de la legibilidad.
+    Valencia lleva años peleando por ser el tercer hub tecnológico de España. Pero entre el relato optimista y los datos reales suele haber una brecha que nadie cuenta.
 
-    Discutiremos como el código auto-generado podría impactar la experiencia de developers, como afecta la mantenibilidad, debugging, y la sostenibilidad a largo plazo.
+    Como llevo años acumulando datos en Manfred, me gustaría hablar de cómo es el ecosistema tech local: empresas, talento, contrataciones, salarios. Con Valencia como protagonista.
+
+    Con los datos en la mano, quiero responder algunas preguntas: ¿puede Valencia competir con Madrid o Barcelona? ¿Qué perfiles técnicos concentra y cuáles le faltan? ¿Cómo comparan los salarios con Madrid o Barcelona?
+
+    Pero los datos son solo la mitad. La otra mitad es la pregunta que me parece más interesante: ¿qué necesitamos para tener un ecosistema tech que merece? Una reflexión abierta, con la comunidad, sobre las palancas reales que podemos accionar.
   speaker:
-    - name: "Carla Urrea Stabile"
-      bio: "Carla es ingeniera de software y developer advocate en Auth0. Carla se considera una desarrolladora agnóstica al lenguaje, aunque disfruta trabajando con Ruby y Python. En su tiempo libre, la puedes encontrar paseando con su perra, haciendo senderismo o montando en bicicleta."
-      photo: /images/speakers/carlaUrrea.jpeg
-      links:
-        - https://carlastabile.tech
-        - https://github.com/carlastabile
-        - https://linkedin.com/in/carlastabile
+    - name: "Borja Pérez"
+      bio: "Marketing Lead en Manfred. Intento crear comunidad compartiendo datos, contexto del mercado tech y la visión desde Manfred."
+      # photo: 
+      # links:
 
 - startTime: "9:30"
   endTime: "10:30"
   room: Sala Factoría
   language: "es"
-  title: "Figma no muerde: Dev Mode, el puente entre diseño y desarrollo"
+  title: "Cómo usar la creatividad en tech, sin marear a las personas"
   description: |-
-    Figma no es solo para diseñadores.
+    «La accesibilidad es la muerte de la creatividad»; «No se puede ser creativo y accesible»; «Puede que esta página no sea accesible ni útil, ¡pero es porque es creativa!».
 
-    Si eres developer y a veces te pierdes entre frames, capas y componentes, esta charla es para ti. Veremos cómo Dev Mode puede ser tu mejor aliado para entender el diseño sin complicaciones, sacar código limpio y trabajar codo a codo con otros equipos sin dramas.
+    ¿Cuántas veces has oído alguna de estas frases, o una combinación de ellas? En el mundo digital moderno, existe una tendencia a identificar «accesible» con «feo» y «sacrificio de la imaginación». 
+
+    Piccia Neri desmontará estos mitos en su charla, mostrando cómo los sitios web, las apps, y los negocios, pueden ser visibles, bonitos, creativos, accesibles y, al mismo tiempo, extremadamente rentables. Con consejos prácticos sobre cómo utilizar la animación de forma eficaz y accesible.
   speaker:
-    - name: "Águeda Machado"
-      bio: "Diseñadora de producto amante del trabajo en equipo, los nuevos retos y el aprendizaje constante. Siempre explorando cómo hacer productos más intuitivos y funcionales."
+    - name: "Piccia Neri"
+      bio: "Piccia Neri es diseñadora, consultora y formadora en experiencia de usuario (UX) y diseño accesible. Piccia dirige proyectos internacionales para empresas de todos los tamaños y forma a diseñadores, profesionales del marketing y desarrolladores para que sitúen la accesibilidad en el centro de su trabajo. Piccia imparte conferencias en todo el mundo y, actualmente, se propone demostrar que el diseño inclusivo no frena ni la creatividad ni la rentabilidad, sino que las potencia. "
       # photo: /images/speakers/aguedaMachado.jpg
+      # links:
 
 - startTime: "9:30"
   endTime: "10:30"
   room: Sala Visual
   language: "Talk in English 🇬🇧"
-  title: "Inside the First Git Commit: Powerful Ideas Behind a Minimal Start"
+  title: "But I Have Nothing To Hide! Or How Big Techs and States made you believe so"
   description: |-
-    In this talk, we will dissect the first Git commit by Linus Torvalds and uncover the powerful software design principles embedded in its earliest code. We will explore how Git’s choice of data structures (like immutable content-addressed blobs and trees) laid the foundation for reliability, correctness, and performance.
+    Data collection has become something that is hard to avoid in our modern societies. From telemetry to sensible personal data, many companies and even state actors rely on it for carrying out their operations. But is it really an issue? After all, I have nothing to hide.
 
-    We will also highlight how Git is a brilliant embodiment of Unix philosophy: small, composable tools; reliance on the filesystem; text-based formats; and simplicity in interface with power in composition. Even in its minimal form, Git introduced key operations such as SHA-1 hashing, snapshot storage, and a filesystem-based object database that collectively reflect deep design clarity.
+    What if I tell you that women were persecuted in the USA because they played to Candy Crush or used Tinder, and that their location data were sold to law enforcement which now criminalises people going to abortion clinics in some states? Or that it isn't that difficult to figure out the real identity of spies with publicly sold data for little money? And when the data isn't already available, state actors don't hesitate to hack their own population, including in democratic countries like France and Spain.
+
+    Data collection has tangible impacts on our societies and democracies. Whether it's for making business profits or controlling its own population while weakening adversary countries, the goal is the same: control. And with the current AI trend, data collection is reaching unprecedented highs.
+
+    So, what can we do about it in 2026? Thankfully, many technical and legal solutions exist, and we all have a role to play in it. Whether you are an entrepreneur, someone involved into the creation of a software, or a simple user, your choices can have a positive impact.
+
   speaker:
-    - name: "Valentin Rusev"
-      bio: "Valentin is a Software Developer with a solid background in e-commerce, cloud infrastructure, and dev tools. He works across the stack (whether it’s backend, frontend, or DevOps) always aiming to keep things simple, reliable, and user-centered. Valentin believes in using technology as a lever for the mind, drawing inspiration from the Unix philosophy and a deep care for developer experience. He’s also an active member of the PHP community in Valencia."
-      links:
-        - https://github.com/valentinboyanov
-        - https://www.linkedin.com/in/valentin-boyanov-rusev-670a30103/
-      photo: /images/speakers/valentinRusev.jpeg
+    - name: "Paul-Emmanuel"
+      bio: "Self-educated since my childhood, I am a technology and science lover with a deep passion for IT, InfoSec, and open-source software, and obsessed by automation. I write software, create learning contents about IT-related topics, and hunt for bugs."
 
 - startTime: "10:30"
   endTime: "11:30"
   room: Sala Polivalente
-  language: "es"
-  title: "Generación de Escenarios Virtuales a través de IA para la educación en personas con TEA"
+  language: "Talk in English 🇬🇧"
+  title: "Lessos from Building at Massive Scale"
   description: |-
-    El Trastorno del Espectro Autista (TEA) implica desafíos significativos en la comunicación social, la conducta y la adaptación al entorno. Las intervenciones tradicionales, aunque eficaces, suelen ser intensivas en recursos humanos y económicos. En este contexto, la Realidad Virtual (VR) ha emergido como una herramienta eficaz para crear entornos seguros, controlados y personalizados donde las personas con TEA pueden practicar habilidades sociales, cognitivas y emocionales. Estas experiencias inmersivas fomentan la motivación y el aprendizaje mediante simulaciones realistas y la interacción con avatares. Sin embargo, muchas de las aplicaciones actuales son demasiado rígidas y no se ajustan a las necesidades individuales del espectro autista.
+    Building software at massive scale means designing systems that don’t just work—but continue to work under extreme load, unpredictable traffic spikes, and constant change.
 
-    La incorporación de la Inteligencia Artificial (IA) permite superar estas limitaciones, ofreciendo entornos adaptativos que responden en tiempo real a las emociones y comportamientos del usuario. La IA puede ajustar la complejidad de los escenarios, actuar como tutor virtual y mejorar sistemas de comunicación aumentativa, especialmente en personas no verbales. También facilita el diagnóstico temprano y el seguimiento del progreso terapéutico mediante el análisis de datos biométricos y de comportamiento. La combinación de IA y VR representa una sinergia poderosa que puede transformar las terapias del TEA, haciéndolas más accesibles, eficaces y personalizadas, incluso en contextos remotos o con pocos recursos. Aunque aún se requiere más validación científica, los avances actuales abren un futuro esperanzador en el apoyo a personas con autismo.
+    In this talk, I’ll share lessons from building and operating distributed systems at companies like Canva and Slack, where platforms handle trillions of requests and support millions of users in real time. We’ll focus on what it actually takes to design for resilience and reliability in high-pressure environments.
+
+    This is a practical, experience-driven talk focused on the realities of operating systems at scale—where failure is inevitable, and resilience is designed.
   speaker:
-    - name: "Aitana Francés Falip"
-      bio: "Aitana Francés es Project Manager del Instituto Tecnológico de Producto Infantil y Ocio, especializada en el desarrollo de soluciones tecnológicas para la salud y el bienestar (E-Health). La Realidad Virtual o Aumentada, la Inteligencia Artificial o el Blockchain, son algunas de las herramientas más dominadas por la ingeniera para llevar a cabo proyectos que busquen mejorar la manera en la que los humanos viven y conviven. "
-      photo: /images/speakers/aitanaFrances.jpeg
-      links:
-        - https://www.aiju.es/
-        - https://www.linkedin.com/in/aitana-francés-293a88208
+    - name: "Javier Turégano"
+      bio: |-
+        Javier Turégano is a platform engineering leader with 20+ years of experience building and operating large-scale distributed systems. He has held senior roles at Canva and Slack, leading global platform and cloud engineering teams supporting products used by hundreds of millions of people.
+
+        His work spans edge, identity, and service architectures, as well as reliability, data residency, and infrastructure at scale. Now an independent consultant and leadership coach, Javier advises companies on platform strategy and runs engineering leadership bootcamps for managers and Staff Engineers. 
+      # photo: /images/speakers/aitanaFrances.jpeg
+      # links:
+      #   - https://www.aiju.es/
+      #   - https://www.linkedin.com/in/aitana-francés-293a88208
 
 - startTime: "10:30"
   endTime: "11:30"
   room: Sala Factoría
   language: "es"
-  title: "Érase una vez una evaluación de accesibilidad"
+  title: "Desarrollo de modelos de IA conversacional para la identificación temprana de rasgos neurodivergentes"
   description: |-
-    Todos sabemos que la accesibilidad es importante. Bueno, en realidad parece que algunos todavía no lo saben. En cualquier caso, ¿cómo se consigue la accesibilidad de un producto digital? Por ejemplo, un sitio web. ¿Cómo se determina que un sitio web es o no accesible?
+    Imagina que, en lugar de acudir a una consulta a ser observado y rellenar un cuestionario, un amigo/a te pregunta: “¿Qué haríamos si nos cancelan un plan a última hora?”… y, sin que lo notes, no solo analiza tu respuesta, sino cómo la construyes, cuánto te desvías del tema, si haces preguntas de vuelta o cómo describes tus relaciones. A lo largo de una conversación aparentemente cotidiana, el sistema es capaz de detectar patrones sutiles en la comunicación, la reciprocidad social o la rigidez cognitiva, transformando el diálogo en una herramienta de observación estructurada.
 
-    No es una cuestión de preferencia o capricho personal. Existen unos criterios específicos que se tienen que comprobar y una metodología para ello.
+    La inteligencia artificial conversacional está evolucionando rápidamente desde simples chatbots hacia sistemas capaces de analizar la interacción humana y detectar rasgos concretos. Esta charla presenta el desarrollo de modelos de IA conversacional orientados a la identificación temprana de neurodivergencias, explorando cómo una conversación natural y cotidiana puede convertirse en una herramienta para observar patrones de comunicación, interacción social, flexibilidad cognitiva o sensibilidad sensorial en contextos reales.
 
-    Durante esta charla os contaré la historia de Simona, jefa de un equipo de desarrolladores que recibe el encargo de crear un sitio web accesible. Es una historia ficticia pero basada en hechos reales ocurridos durante mi experiencia como profesional de la accesibilidad en Springer Nature e Ilunion.
+    A partir de un caso aplicado en el ámbito del Trastorno del Espectro Autista (TEA), se mostrará cómo es posible crear agentes conversacionales capaces de sostener interacciones naturalistas y adaptativas, alejadas de los cuestionarios tradicionales. El enfoque se basa en traducir marcos clínicos consolidados, como los criterios DSM-5 y herramientas de evaluación validadas, a arquitecturas conversacionales estructuradas que permiten recoger información relevante de forma más accesible, escalable y menos intrusiva. 
+
+    Durante la charla se explicará el proceso de creación de estos sistemas: desde el diseño de la lógica conversacional por fases (rapport, exploración y profundización), hasta la implementación de mecanismos de seguimiento interno que permiten analizar patrones en tiempo real y generar resultados interpretables. Se abordará cómo los modelos de lenguaje pueden integrar observación estructurada sin perder naturalidad en la interacción, y cómo este tipo de soluciones puede aplicarse en entornos educativos y de salud digital como apoyo a la detección temprana.
   speaker:
-    - name: "Carlos Muncharaz"
-      bio: "Especialista en accesibilidad digital en Springer Nature, con experiencia previa como desarrollador web y diseñador gráfico. Activista por los derechos de las personas con discapacidad desde hace casi veinte años."
-      photo: /images/speakers/carlosMuncharaz.jpeg
-      links:
-        - https://www.muncharaz.eu/
-        - https://github.com/cmuncharaz
-        - https://www.linkedin.com/in/cmuncharaz/
+    - name: "Aitana Francés"
+      bio: "Aitana Francés es Project Manager del Instituto Tecnológico de Producto Infantil y Ocio (AIJU). Está especializada en e-Health y tecnologías para la salud, centrando su trabajo en la aplicación de herramientas como inteligencia artificial (IA), realidad virtual (VR) y realidad aumentada (AR) para el desarrollo de soluciones dirigidas a personas no neurotípicas. Su actividad se orienta al diseño de propuestas innovadoras que favorecen la inclusión, el bienestar, la interacción y la mejora de la calidad de vida a través de la tecnología."
+      # photo: /images/speakers/carlosMuncharaz.jpeg
 
 - startTime: "10:30"
   endTime: "11:30"
   room: Sala Visual
   language: "es"
-  title: "Progreso y percepción: Cómo diseñar con tiempos de espera"
+  title: "¿Hacemos Agile o solo hemos tuneado el Waterfall?"
   description: |-
-    Todas las aplicaciones y servicios online gestionan tiempos de carga y momentos de espera para los usuarios, pero muy pocos lo hacen de forma efectiva.
+    Si Agile iba de feedback temprano, adaptación y colaboración continua, ¿por qué tantos equipos siguen trabajando como si lo importante fuera cumplir un plan? En muchas organizaciones se sigue operando con una lógica sorprendentemente parecida al Waterfall de siempre. Hemos adoptado la parte visible de metodologías Agile, como los sprints, las dailies, las reviews o el backlog, pero no siempre la lógica de aprendizaje continuo, validación temprana y adaptación real que le daba sentido. Hemos tuneado la forma de organizar el trabajo, pero no necesariamente la forma de decidir, aprender y reaccionar.
 
-    En esta charla vamos a explorar los distintos escenarios, estrategias y conceptos clave para que podamos diseñarlos para conseguir nuestro objetivo: que el usuario espere y no abandone.
+    Todos conocemos conceptos del Product Management que, en teoría, deberían ayudarnos a aplicar mejor Agile. Hablar con usuarios para obtener feedback, medir para entender qué está pasando, trabajar por resultados y experimentar antes de invertir demasiado. El problema es que saberlo no basta. En la práctica, aplicarlo de verdad en el día a día es mucho más difícil de lo que parece. En esta charla veremos por qué pasa y, sobre todo, cómo empezar a hacerlo para aprender antes, iterar con más criterio y no seguir construyendo a ciegas. Y lo veremos también en un caso real, en el que una startup pasó de querer rehacer por completo su onboarding a mejorar su activación del 22% a más del 70% con cambios mínimos.
+
+    El problema no era el onboarding. Era no haber entendido antes qué estaba pasando.
   speaker:
-    - name: "Ismael Canal"
-      bio: "Builder con frontend & product design skills. In the last 16 years i’ve worked inside design teams from small to big sized organizations, in sectors like news media, consulting, social networks, R&D, e-grocery, fintech and mobility."
-      photo: /images/speakers/ismaelCanal.jpeg
-      links:
-        - https://ismael.fyi
-        - https://github.com/basiclines
-        - https://www.linkedin.com/in/ismaelcanal/
+    - name: "Kiko Avellaneda"
+      bio: "Kiko Avellaneda es Product Lead y autor del libro Haz Producto. Lleva años ayudando a equipos de desarrollo y startups a pasar de entregar funcionalidades a generar impacto real. En sus charlas conecta Agile, producto y desarrollo de software desde los problemas reales que viven los equipos en su día a día y cómo empezar a resolverlos de forma práctica."
+      # photo: /images/speakers/ismaelCanal.jpeg
+      # links:
+      #   - https://ismael.fyi
 
 - startTime: "11:30"
   endTime: "12:00"
@@ -118,134 +126,122 @@
 - startTime: "12:00"
   endTime: "13:00"
   room: Sala Polivalente
-  language: "es"
-  title: "De estudiantes a developers en el mundo start-up/ Salimos del grado y en una startup nos hemos colado"
+  language: "Talk in English 🇬🇧"
+  title: "TDD with AI: the veteran and the influencer who can’t agree (but still write tests)"
   description: |-
-    ¿Alguna vez te has preguntado cómo estudiante cómo sería adentrarte en el mundillo startup? Y cómo startup ¿cómo sería contratar a estudiantes en un modelo de negocio frenético y novedoso?
+    A veteran who was writing tests before you were born and an influencer who turns every pull request into content. Together, improbably, they have something useful to teach you.
 
-    Nosotros te lo contamos, somos 3 programadores que eran patitos recién salidos del cascarón que aterrizaron en una startup y un papá pato que decidió mentorizar a estos 3 pequeñuelos.
+    In this talk we’re going to do what nobody asked us to do: sit down together to practice TDD with AI and show what happens when you run the red-green-refactor cycle with a copilot that sometimes hallucinates.
 
-    Te contaremos como se vivió todo este proceso desde dos enfoques:
+    We’ll talk about how to ask an AI for tests without it giving you something that passes but proves nothing. Why generated code also needs to be reviewed. The veteran has been saying this for decades, but now he’s right for new reasons. And when TDD with AI truly speeds things up—and when it just gives you the false confidence of seeing green bars.
 
-    El de la empresa: entrevistas, onboarding, objetivos, beneficios para la empresa, etc.
-
-    El de los estudiantes: entrevistas, onboarding, aprendizajes, etc.
+    This isn’t a hype talk. We’re not going to tell you AI will replace anyone. We’re going to show you where it works, where it gets in the way, and why a developer’s judgment is still what separates a useful test from a decorative one.
   speaker:
-    - name: "Fuensanta Sansano, Zero, Jorge Borja, Iván Bernál"
+    - name: "Emilio Carrión, Alex Fuentes"
       bio: |-
-        Desarrolladores de diferentes orígenes y distintas partes de España que comenzaron en el ciclo formativo y aterrizaron en la misma startup.
+        Emilio Carrión: Staff Engineer at Mercadona Tech and PhD candidate at UPV. A technical content creator who turns every architecture decision into a LinkedIn post. Still convinced that code is a means, not an end—although sometimes the means costs him 45 minutes of scrolling.
 
-        Iván: Toledo, antes estudiante, es un cocinitas.
-        Zero: Valencia, antes desarrollador y ahora, pero también granjero de caracoles.
-        Jorge: Toledo, antes estudiante, amantes de los teclados y de comer tomates a bocados.
-        Fuen: Murcia, antes enfermera, sufre de síndrome de radio."
-      photo: /images/speakers/zeroycia.jpeg
-      links:
-        - https://www.linkedin.com/in/jorge-borja-valdivia-249651bb/
-        - https://www.linkedin.com/in/fuensanta-sansano/
-        - https://www.linkedin.com/in/zerolive/
-        - https://www.linkedin.com/in/iv%C3%A1n-bernal-lara-a143171b9/
+        Alex Fuentes: Staff Frontend Engineer at Mercadona Tech. He’s been doing TDD with React for so many years that he no longer remembers how to program without writing a test first. He says AI is fine, but a good test is still better written by a person with coffee.
+      # photo: /images/speakers/zeroycia.jpeg
+      # links:
+      #   - https://www.linkedin.com/in/jorge-borja-valdivia-249651bb/
 
 - startTime: "12:00"
   endTime: "13:00"
   room: Sala Factoría
   language: "es"
-  title: "CLIs con brilli-brilli / Mejorando la UX de TUIs aplicaciones de terminal"
+  title: "Local-first to the limit: apps de alto rendimiento en el navegador"
   description: |-
-    En la charla quiero presentar cómo mejorar la apariencia y la experiencia de usuario de tus herramientas de línea de comandos (CLI) usando Bubble Tea en Golang. Hablaremos de Text User Interfaces (TUIs), que son básicamente interfaces interactivas que hacen que tu CLI sea mucho más atractiva y fácil de usar.
+    Hemos transformado una herramienta de modelado hidráulico (EPANET) con más de 30 años de historia, y pensada originalmente como aplicación de escritorio; en una aplicación web open source y local-first, donde todo corre directamente en la máquina del usuario.
 
-    Vamos a ver cómo, con la ayuda de la arquitectura ELM (Model-Update-View), podemos crear aplicaciones modulares y reactivas que no solo funcionen bien, sino que también sean un placer para usar. Además,  mostraré algún ejemplos práctico para que se pueda ver cómo transformar esas CLIs aburridas en algo mucho más eficiente y divertido para el día a día del desarrollador, haciendo hincapié en el UX.
+    El navegador no está diseñado para este tipo de aplicaciones — pero cada vez hay menos impedimentos. Compartiremos cómo abordamos retos como: ejecutar cálculos y computación intensiva fuera del hilo principal, gestionar grandes volúmenes de datos en el navegador, flujos de trabajo “nativos” en un entorno web o elegir un buen formato de archivo para tu aplicación.
+
+    También hablaremos de lo que sigue siendo difícil y de lo que realmente implica construir una aplicación que funcione completamente offline.
+
+    Si te interesa llevar el navegador más allá de lo habitual, esta charla es para ti.
   speaker:
-    - name: "Javier Martí"
+    - name: "Sandra Saornil, Sam Gathercole"
       bio: |-
-        Actualmente, trabajo como SRE en Flywire, formando parte del equipo de Platform Engineering y Developer Experience. Mi principal responsabilidad es gestionar y optimizar la plataforma de CI/CD, asegurando que los desarrolladores puedan hacer deploys de manera eficiente y sin fricciones.
+        Sandra Saornil: "Empecé pelando cables y ayudando a físicos locos a descubrir nuevas partículas pero encontré mi oasis construyendo productos que solucionan problemas reales usando la cantidad mínima y justa de tecnología para ello. Me encontrarás priorizando proyectos con un impacto positivo en la sociedad y que me hagan sentir que sigo teniendo mucho por aprender."
 
-        También me encargo de mejorar la experiencia de los desarrolladores con herramientas internas y de asegurar que nuestra infraestructura sea confiable, flexible y capaz de escalar con las necesidades del negocio.
-      photo: /images/speakers/javierMarti.jpeg
-      links:
-        - https://github.com/xabim
-        - https://www.linkedin.com/in/javier-marti-monforte/
+        Sam Gathercoloe: "Mi trayectoria profesional abarca desde grandes empresas y startups hasta proyectos en etapas iniciales, lo que me ha dado una experiencia diversa en sectores como fintech, retail, monitoreo y sistemas hidráulicos. Ahora, estoy aprovechando todo ese bagaje para innovar en el modelado de redes hidráulicas a través de soluciones de código abierto."
+      # photo: /images/speakers/javierMarti.jpeg
+      # links:
+        # - https://github.com/xabim
 
 - startTime: "12:00"
   endTime: "13:00"
   room: Sala Visual
   language: "es"
-  title: "Cómo transformar la deuda técnica en valor de mercado"
+  title: "Lo que la IA no ve cuando tu usuario tiene 3 años"
   description: |-
-    La deuda técnica es una realidad inevitable en el desarrollo de software, especialmente en sistemas legacy que han evolucionado a lo largo del tiempo. Tradicionalmente es vista como un lastre, pero la deuda técnica puede transformarse en una oportunidad para generar valor estratégico si se aborda de manera proactiva y estratégica.
+    ¿Qué pasa cuando tu usuario tiene 3 años y la IA no puede ayudarte a entenderlo?
 
-    En esta charla, exploraremos cómo identificar, priorizar y gestionar la deuda técnica de forma efectiva, no solo como una tarea de mantenimiento, sino como una inversión para mejorar la agilidad, la innovación y la sostenibilidad a largo plazo.
+    Cuando trabajas en el sector EdTech, y parte de tus usuarios son menores que ni saben leer, aprendes que ni los dashboards más sofisticados ni la IA más avanzada pueden sustituir ver a un/a niña/o intentar usar tu app sin saber leer ni expresar qué le frustra. 
 
-    Discutiremos técnicas para refactorización incremental, estrategias para modernizar sistemas legacy sin interrumpir las operaciones, y cómo comunicar el valor de la reducción de la deuda técnica a stakeholders no técnicos.
-
-    Esta charla es relevante para líderes técnicos, arquitectos y desarrolladores que trabajan con sistemas legacy y buscan transformar el mantenimiento en una fuente de valor y ventaja competitiva.
+    En esta charla compartiré casos reales de esos momentos en los que te despegas de tu PC y tu mundo en pantallas, y observas a tus usuarios en su hábitat natural, y descubres que todas tus hipótesis no eran las más acertadas. Hablaré de por qué algunos problemas de producto solo se resuelven mirando, no midiendo. Y trataré de abordar la siguiente pregunta: en plena auge de la IA, ¿de verdad creemos que podemos hacer e iterar productos sin ver cómo los usa la gente real?
   speaker:
-    - name: "Emilio Carrión "
-      bio: "Vendedor de lechugas en Mercadona Tech. Doctorando en la Universidad Politécnica de Valencia sobre métodos de producción de software orientado a la industria 5.0."
-      photo: /images/speakers/emilioCarrion.jpeg
-      links:
-        - https://www.productcrafter.com/
-        - https://www.linkedin.com/in/emcarrio/
+    - name: "Andrea López"
+      bio: "Product Manager en la actualidad, y con mente de ingenieria informática. Me encanta ser PM por una razón simple: es uno de los roles donde realmente puedo hacer que los cambios sucedan. Empecé mi aventura laboral hace 13 años en el mundo corporativo, pero luego me pasé al mundo de las startups. Actualmente trabajo en una aplicación de juegos educativos para niños/as, siendo la única empresa española por la que the LEGO Foundation ha apostado."
+      # photo: /images/speakers/emilioCarrion.jpeg
+      # links:
+        # - https://www.productcrafter.com/
 
 - startTime: "13:00"
   endTime: "14:00"
   room: Sala Polivalente
   language: "es"
-  title: "¿Y si tu siguiente salto no depende de lo técnico?"
+  title: "Cómo decidir cuando no hay datos, no hay tiempo y muchas opiniones"
   description: |-
-        En esta charla comparte su recorrido profesional, desde sus primeros años como consultora técnica hasta convertirse en ejecutiva de alto impacto.
+    En producto, growth y tecnología, muchas de las decisiones más importantes se toman sin tener toda la información, con presión por avanzar y con múltiples opiniones compitiendo al mismo tiempo.
 
-        El foco no está solo en los logros, sino en cómo habilidades como la empatía, la comunicación y la inteligencia emocional fueron claves para dar ese salto, sin abandonar su esencia técnica.
+    Sin embargo, el problema no suele ser la falta de datos, sino cómo abordamos la toma de decisiones en contextos de incertidumbre. Equipos que analizan demasiado, prioridades que cambian constantemente y discusiones que no terminan, son síntomas de un problema más profundo: la ausencia de criterios claros para decidir.
+
+    En esta charla compartiré cómo tomar decisiones cuando no hay respuestas evidentes, basándome en experiencias reales trabajando en entornos cross-funcionales donde la velocidad y la ambigüedad son la norma.
+
+    Los asistentes se llevarán marcos mentales y herramientas prácticas que podrán aplicar inmediatamente para tomar decisiones con más claridad, velocidad y confianza, incluso en situaciones donde no existe una respuesta correcta.
   speaker:
-    - name: "Florencia Cattelani"
-      bio: |-
-        Florencia Cattelani es ingeniera en informática y COO de Cloudgaia. Con más de 15 años de experiencia en tecnología, lideró la creación de la práctica de MuleSoft en la compañía y hoy impulsa su crecimiento global. Apasionada por el liderazgo, combina visión estratégica y foco en las personas para transformar equipos y organizaciones.
+    - name: "Maria Victoria"
+      bio: "Especialista en Growth, Estrategia de Producto y Operaciones, con experiencia liderando iniciativas cross-funcionales en entornos tech hace +15 años. Ayuda a equipos y líderes a destrabar problemas complejos y a generar impacto real en su negocio."
       # photo: /images/speakers/florenciaCattelani.jpg
-      links:
-        - https://www.linkedin.com/in/florenciacattelani/
+      # links:
+      #   - https://www.linkedin.com/in/florenciacattelani/
 
 - startTime: "13:00"
   endTime: "14:00"
   room: Sala Factoría
   language: "es"
-  title: "De Postgres a DuckDB: nuestra transición hacia análisis escalables"
+  title: "Org Social: una red social descentralizada en un archivo de texto"
   description: |-
-    Cuando nuestras consultas analíticas empezaron a sufrir con cientos de millones de registros en Postgres, supimos que era momento de repensar nuestra arquitectura de datos.
+    ¿Qué es lo mínimo que necesitas para tener una red social? Un archivo de texto en un servidor web. Esa es la premisa de Org Social, un protocolo y ecosistema que he diseñado y construido desde cero para demostrar que la descentralización no requiere blockchain, federación compleja ni servidores dedicados. Sin bases de datos, sin cuentas, sin intermediarios.
 
-    En esta charla compartiré cómo migramos la capa analítica de nuestro software a DuckDB, y qué aprendimos en el camino.
+    En esta charla recorreremos todo el camino: desde el diseño del protocolo basado en Org Mode (posts con timestamps, menciones, encuestas, hilos de respuesta, grupos y visibilidad), hasta la construcción del ecosistema completo de herramientas que lo hacen funcional.
+
+    Más allá del código, hablaremos de las decisiones de diseño que definen el proyecto: por qué un archivo plano y no una base de datos, cómo se resuelve el problema del descubrimiento sin un servidor central, qué sacrificios implica apostar por la simplicidad radical, y qué hemos aprendido de protocolos anteriores. Si te interesa la descentralización, el software libre o simplemente quieres ver hasta dónde puedes llegar con un archivo de texto, esta charla es para ti.
   speaker:
-    - name: "Jesús Jiménez Ballano"
-      bio: "Actualmente trabajo como líder técnico en Latency, una startup valenciana enfocada a inversores donde trabajamos con gran cantidad de datos."
-      photo: /images/speakers/jesusJimenez.jpeg
-      links:
-        - https://github.com/jjballano
-        - https://es.linkedin.com/in/jjballano
+    - name: "Andros Fenollosa"
+      bio: "Full Stack Developer. Escribo artículos, libros y mantengo proyectos open source de todo tipo. Estoy orgulloso de ser el creador de Django LiveView, Org Social, entusiasta de Emacs, radioaficionado y amante de la programación funcional. "
+      # photo: /images/speakers/jesusJimenez.jpeg
+      # links:
+        # - https://github.com/jjballano
 
 - startTime: "13:00"
   endTime: "14:00"
   room: Sala Visual
-  language: "es"
-  title: "¡DAST como nunca te lo habían contado! Integrando ZAProxy en pruebas web."
+  language: "Talk in English 🇬🇧"
+  title: "From Human-Driven to Autonomous Systems: Our Journey to an AI-Native SDLC"
   description: |-
-    Una de las etapas más desafiantes dentro del Ciclo de Desarrollo Seguro de Software (SSDLC) es la implementación de pruebas dinámicas de seguridad de aplicaciones (DAST). En esta charla, proponemos una nueva visión para abordar esta fase crítica, transformándola en un proceso más eficiente y accesible al integrarlo directamente con las pruebas web desarrolladas por los equipos de Calidad Software.
+    AI is changing how we write code, but what happens when software development becomes intent-driven? In this talk, we’ll share how we transformed our SDLC into an AI-native system where developers define intent and autonomous background agents execute, validate, and improve software continuously. 
 
-    Habitualmente, el proceso de configuración de herramientas de análisis dinámico requiere un análisis previo de URLs a atacar y la configuración de los procesos de autenticación, entre otros. Incluso ZAProxy recomienda el uso de su "Spider" para detectar las URLs a analizar.
+    These agents operate across sandbox environments, handling everything from flaky tests to production fixes. To make this possible, we built a standardized knowledge substrate for both humans and agents, redesigned our systems for machine consumption, evaluated yield instead of raw team throughput and rethought PCI/SOX/SOCII compliance boundaries.
 
-    Sin embargo, en esta charla, proponemos un enfoque diferente:
-
-    ¿Tenemos pruebas web que cubren la funcionalidad de la aplicación? Sí.
-    ¿Contamos con un entorno de ejecución adecuado? Sí.
-    Entonces, ¿sería necesario realizar toda la configuración inicial tradicional? No.
-
-    Con este sinergia, se compararán los resultados obtenidos utilizando el enfoque tradicional (escaneo spider de URLs con la herramienta) frente a los resultados derivados de ejecutar las pruebas web con Selenium y ZAProxy, tanto en un análisis pasivo como activo. El objetivo es consolidar todos los conceptos propuestos y demostrar que un planteamiento alternativo en las pruebas dinámicas de seguridad no solo es viable, sino también más eficiente y práctico.
+    This is a practical story of what worked, what broke, and what it really takes to move toward an autonomous software factory.
   speaker:
-    - name: "Sara Martínez Giner"
-      bio: "Sara Martínez se dedica desde hace más de 10 años al análisis y pruebas de calidad. Gracias ello, ha estado involucrada en proyectos de Telecomunicaciones, Geolocalización, Big Data y Electrónica de Potencia. Desde 2019 lleva participando en proyectos de software dedicados a la Ciberseguridad, dónde la calidad está enfocada tanto a los productos como a la seguridad informática de los mismos."
-      photo: /images/speakers/saraMartinez.jpeg
-      links:
-        - www.testingsoul.com
-        - https://github.com/testingsoul/
-        - https://www.linkedin.com/in/saramartinezginer/
+    - name: "Luis Belloch"
+      bio: "Luis Belloch es un ingeniero de software senior con más de 25 años de experiencia en el sector tecnológico. Actualmente ocupa el puesto de Senior Engineering Manager en Flywire, donde lidera equipos responsables del desarrollo del motor de pagos y su API pública, que procesan miles de transacciones internacionales cada día."
+      # photo: /images/speakers/saraMartinez.jpeg
+      # links:
+      #   - www.testingsoul.com
 
 - startTime: "14:00"
   endTime: "16:00"
@@ -256,116 +252,106 @@
 - startTime: "16:00"
   endTime: "17:00"
   room: Sala Polivalente
-  language: "Talk in English 🇬🇧"
-  title: "Smarter Load Tests: How AI is Transforming Performance Engineering"
+  language: "es"
+  title: "Código abierto en el mundo de los videojuegos"
   description: |-
-    Performance testing is evolving rapidly, and AI is becoming an invaluable tool in this transformation. In this session, we'll explore practical applications of AI in performance engineering, including automated anomaly detection, test scenario optimization, and predictive load modeling.
-
-    Attendees will gain insights into accessible AI tools and techniques that can be integrated into existing workflows without requiring deep machine learning expertise. Real-world examples will illustrate how AI can complement human expertise, leading to more efficient and effective performance testing.
+    El código abierto es muy popular en la industria de la tecnología, pero el mundo de los videojuegos sigue viviendo en el pasado. En esta charla quiero explicar un poco como trabajamos en Godot Engine y como esta cambiando el paradigma.
   speaker:
-    - name: "Raisa Lipatova"
-      bio: "Raisa Lipatova is a Team Lead in Performance Engineering with over 15 years of experience in QA, automation, and performance testing. She has led cross-functional projects, developed QA strategies from the ground up, and mentors engineers on career growth. Raisa is passionate about demystifying complex technical topics and empowering QA professionals to stay ahead in the ever-evolving tech landscape."
-      photo: /images/speakers/raisaLipatova.jpeg
-      links:
-        - https://qauniverse.ru/
-        - https://www.linkedin.com/in/raisa-lipatova/
+    - name: "Emilio Coppola"
+      bio: "Emilio Coppola es el director ejecutivo de la Godot Foundation y supervisa el desarrollo y la sostenibilidad del motor de código abierto. Con experiencia en desarrollo web y experiencia en empresas tecnológicas, pasó de crear juegos y contenido educativo para la comunidad Godot a liderar la Fundación. En su función, gestiona donaciones, asigna recursos e impulsa el crecimiento del motor manteniendo su naturaleza gratuita y de código abierto posicionándolo como una alternativa competitiva en la industria del desarrollo de video juegos."
+    # photo: /images/speakers/raisaLipatova.jpeg
+    # links:
+    # - https://qauniverse.ru/
 
 - startTime: "16:00"
   endTime: "17:00"
   room: Sala Factoría
-  language: "es"
-  title: "Web performance: from zero to hero"
+  language: "Talk in English 🇬🇧"
+  title: "Build trust, keep your job"
   description: |-
-    La performance web es crucial porque define la primera impresión y la experiencia continua que los usuarios tienen con tu web. Un sitio web lento genera frustración, aumenta la tasa de rebote, disminuye la conversión y daña la reputación de la marca. En el mundo actual, donde la atención del usuario es limitada, optimizar el rendimiento web es vital para retener visitantes, fomentar la interacción y lograr los objetivos de negocio. Desde el comercio electrónico hasta la información, una web rápida y receptiva es la base para una experiencia positiva que impacta directamente los resultados.
+    Getting a job in tech is hard enough these days, but starting strong once you’re hired can be just as challenging. This talk looks at what helps new people build trust in their teams during those first critical months. 
 
-    En esta charla vamos a ver cómo podemos medir la performance de nuestra web (React SPA), qué herramientas podemos utilizar y qué técnicas debemos aplicar a nuestro ciclo de desarrollo para conseguir que sea lo más rápida posible.
+    Instead of focusing on interviews, CVs, or LinkedIn profiles, it shifts the attention to what happens after you join: how people around you decide whether they can rely on you, work with you, and give you more autonomy. Based on research in organizational psychology, the talk introduces three core ingredients of trust: ability, integrity, and benevolence.
+
+    The session turns these ideas into practical, everyday actions that apply across the whole IT industry, from QA and engineering to product, design, and leadership roles.
   speaker:
-    - name: "Javier Casal Ruiz"
-      bio: "Ingeniero de Software Senior en Flywire. Full stack, interesado en frontend, CI/CD y todo lo que ocurre por en medio."
-      photo: /images/speakers/javierCasal.jpeg
-      links:
-        - https://bsky.app/profile/javiercasal.bsky.social
-        - https://github.com/jacarui
-        - https://www.linkedin.com/in/jacarui/
+    - name: "Asya Isakova"
+      bio: "Asya is an organizational psychologist, scientist-practitioner, lecturer, and consultant working with IT teams and leaders. She’s been studying and practicing how to make work suck less since 2007 with various teams and leaders, including Firtune 500 companies. Lately, she’s been deeply into trust at work—bridging academia with hands-on leadership experience."
+      # photo: /images/speakers/javierCasal.jpeg
+      # links:
+      #   - https://bsky.app/profile/javiercasal.bsky.social
 
 - startTime: "16:00"
   endTime: "17:00"
   room: Sala Visual
   language: "es"
-  title: "Seguridad y buenas prácticas en el desarrollo Frontend"
+  title: "La dispersión como superpoder: Cómo la curiosidad puede hacerte mejor profesional"
   description: |-
-    En un mundo donde las aplicaciones frontend gestionan cada vez más lógica, tokens y datos sensibles, la seguridad ya no es solo una cuestión del backend.
+    Tener muchos intereses y saltar de uno a otro tiene mala fama. Se le llama falta de foco, dispersión o no saber lo que quieres. En resumen, aprendiz de todo y maestro de nada.
 
-    Esta charla ofrece un recorrido práctico y actualizado por los riesgos más comunes que acechan en el desarrollo frontend: ataques XSS y CSRF, almacenamiento inseguro de tokens, mala configuración de CORS, dependencias vulnerables o Content Security Policy mal implementadas. Mostraremos ejemplos reales complicando lo mínimo el desarrollo.
+    Quizá sea cierto, pero ¿y si te dijera que tu dispersión no es algo que debas corregir, sino el punto de partida de tu investigación?
 
-    Si alguna vez has guardado un JWT en localStorage, has desactivado un botón de enviar creyendo que con eso basta, o has importado una librería sin auditarla… esta charla es para ti.
+    Ser generalista no es un problema, al contrario, creo que es lo más valioso que puedes ser ahora mismo, cuando la IA ya es la mejor especialista en cualquier sala de reuniones. Destacar por conectar ideas dispares, resolver problemas complejos, desenvolverse con éxito en entornos cambiantes... Suena bien, ¿no?
+
+    En esta charla veremos herramientas concretas para tratar tus múltiples intereses con intención, para que dejen de ser motivo de tabú y se conviertan en material con el que trabajar, entre ellas el Mapa de la Curiosidad.
   speaker:
-    - name: "Javier Motos, Mangel Sánchez"
-      bio: "Somos desarrolladores con más de 12 años de experiencia construyendo todo tipo de aplicaciones, rompiendo cosas (a veces a propósito) y aprendiendo en el proceso. Interesados (y preocupados) por la seguridad y las buenas prácticas, creemos que el software bien hecho no solo es posible, sino necesario. Alguna vez nos enseñaron a programar, y hoy compartimos lo que hemos aprendido para que otros puedan ir más lejos, más rápido, y con menos errores."
-      photo: /images/speakers/mangelycia.jpeg
-      links:
-        - https://secture.com/author/javi/
-        - https://medium.com/all-you-need-is-clean-code
-        - https://www.linkedin.com/in/javiermotosgonzalez/
-        - https://www.linkedin.com/in/mangelsnc/
+    - name: "Andrea Soler"
+      bio: "Soy una creativa multidisciplinar, a falta de mejores palabras. Con estudios en Product Design, ahora trabajo como Visual Designer, pero en general diría que mi trabajo es solucionar problemas. Uso mi experiencia en diferentes áreas artísticas y técnicas para seguir creciendo como profesional, dejando que mi curiosidad me abra el camino."
+      # photo: /images/speakers/mangelycia.jpeg
+      # links:
+      #   - https://secture.com/author/javi/
 
 - startTime: "17:00"
   endTime: "18:00"
   room: Sala Polivalente
-  language: "es"
-  title: "Algoritmos, visas y talento: El viaje del migrante tech"
+  language: "Talk in English 🇬🇧"
+  title: "Why Female Role Models are Tech’s Greatest Untapped Asset"
   description: |-
-    El sector tecnológico se alimenta de talento global, pero el camino del profesional migrante está lleno de desafíos que van más allá del código: burocracia, sesgos, redes que no se tienen, idiomas que no se dominan… y visas que se vencen.
+    I'll be talking about my own experience as a woman in historically male environments - coordinator on a large hospital reconstruction, leading manager for the scalability of a surgical robotic manufacturing site, program manager in the Enterprise Data Office at AstraZeneca, and here in Valencia, building the Healthtech Community Valencia as both expath and a woman. 
+    
+    The main idea is to show that the biggest impact on my career was made by other women in charge. I strived in my career while battling impostor syndrome, only because I saw what other women achieved, and they were always positive when I asked for help navigating the tech environment. As a result, I aimed to become that role model for my junior female peers. 
 
-    Este panel visibiliza las historias reales de quienes cruzan fronteras —geográficas y sociales— para integrarse al ecosistema tech europeo. También explora cómo las empresas y políticas pueden adaptarse a este flujo creciente de talento, y qué implica migrar siendo parte de colectivos subrepresentados.
-
-    🎯 Temas clave
-    ¿Qué pierde y qué gana el ecosistema tech cuando el talento migrante es invisibilizado?
-    - La migración como aceleradora de soft skills y adaptabilidad.
-    - Tech visas, trabas legales y el privilegio del pasaporte correcto.
-    - Contratación sin sesgos: ¿realidad o buzzword?
-    - Interseccionalidad: ser migrante y además mujer, racializade o LGTBIQ+.
+    There are simple things we can do to help: never use misogyny to compete in a man's world, be a female ambassador  - always recommend another woman for the job, and share unwritten rules with female colleagues. 
   speaker:
-    - name: "Julieta Zalduendo"
-      bio: "Fundadora de My Tech Plan, una consultora especializada en eventos, formación y contenido estratégico para empresas del sector tecnológico. Creadora del Gen AI Summit EU en Valencia y líder de GDG Valencia y Women Techmakers."
-      photo: /images/speakers/julietaZalduendo.jpeg
-      links:
-        - https://www.linkedin.com/in/julietazalduendo/
+    - name: "Mariia Suleiman"
+      bio: "I'm a tech enthusiast with 14 solid years of experience in HealthTech, Big Pharma, and Robotics - bringing amazing projects to life, while coaching female experts in originally very male environments. I evangelise the power of female role models in the tech world"
+      # photo: /images/speakers/julietaZalduendo.jpeg
+      # links:
+      #   - https://www.linkedin.com/in/julietazalduendo/
 
 - startTime: "17:00"
   endTime: "18:00"
   room: Sala Factoría
   language: "es"
-  title: "No entiendes tu proyecto… y yo tampoco"
+  title: "Señales y papel de aluminio. Un viaje por lo invisible."
   description: |-
-    La pérdida de conocimiento está a la orden del día, y con ella las rotaciones… o ¿tal vez a raíz de?. Si queremos proyectos estables que no nos hagan tirarnos de los pelos… o de más arriba… tenemos que establecer procesos y repositorios de conocimiento.
+    Vivimos en un mundo hiperconectado, sumergidos en un océano de datos que viajan por el aire de forma invisible. Aunque nos parezca un caos, estas señales circulan por "autopistas" perfectamente organizadas que conocemos como frecuencias. Pero, ¿qué está ocurriendo realmente a nuestro alrededor en este preciso instante?
 
-    Entrar a proyectos y que solo los veteranos sepan funcionar ¡¡no es buena señal!!. Y de eso precisamente va la charla, de democratizar el conocimiento crítico y hacerlo accesible. Quiero que salgas con herramientas para enfrentarte a estas situaciones sin importar la experiencia o conocimientos
-  speaker:
-    - name: "Pepe Fabra Valverde"
-      bio: "Developer Advocate y Software Solutions Architect en Capgemini, parte de la Solution Delivery Office de C&CA (Cloud and Custom Applications) con casi 20 charlas, 5 años de experiencia en distintos sectores y tecnologías, he liderado equipos, iniciativas y caídas de producción."
-      photo: /images/speakers/pepeFabra.jpeg
-      links:
-        - https://github.com/jofaval/
-        - https://www.linkedin.com/in/jofaval/
+    En esta charla, viajaremos a través del espectro radioeléctrico para descubrir quiénes son los inquilinos de estas bandas. Partiremos desde los 27 MHz, territorio de la radioafición y el radiocontrol, hasta alcanzar los 5 GHz, donde la alta velocidad del Wi-Fi moderno domina el aire. Por el camino, exploraremos señales de aviación (Mode S), dispositivos cotidianos en la banda ISM y el complejo ecosistema de los 2.4 GHz.
 
-- startTime: "17:00"
-  endTime: "18:00"
-  room: Sala Visual
-  language: "es"
-  title: "Ciberseguridad post-cuántica basada en dispositivos reconfigurables."
-  description: |-
-    El anuncio de Majorana 1 ha hecho que muchos desarrolladores y empresas se den cuenta de que los ciberataques con algoritmos cuánticos son una amenaza más o menos cercana para muchos de nuestros sistemas.
+    Más allá de la teoría, descubriremos las herramientas y técnicas necesarias para "hacer visible lo invisible". Mediante el uso de dispositivos SDR (Software Defined Radio), realizaremos capturas en vivo para demostrar que, con el equipo adecuado, cualquiera puede sintonizar la sinfonía digital que nos rodea.
 
-    Tanto que organismos como NIST liberaron en 2014 el primer conjunto de algoritmos de cifrado post-cuánticos, ¿pero qué podemos hacer con los millones de dispositivos que hay desplegados por todo el mundo? ¿Necesitamos actualizarlos todos?
+    Al final de la charla se repartirá papel de aluminio al que lo desee para hacerse un gorro de protección.
   speaker:
     - name: "Pablo Trujillo"
-      bio: "Desarrollador de FPGA para aplicaciones de control y procesado digital de señal. Desarrolla proyectos de aceleración HW, procesado de señal en el borde y ciberseguridad. Autor del blog controlpaths.com donde publica articulos y proyectos sobre FPGA y SOC."
-      photo: /images/speakers/pabloTrujillo.jpeg
-      links:
-        - https://controlpaths.com/
-        - https://github.com/controlpaths/
-        - https://www.linkedin.com/in/pablo-trujillo-juan/
+      bio: "Diseñador de FPGA por más de 10 años, se dedica a la implementación de algoritmos de control. Además de su trabajo, Pablo comparte proyectos en su blog controlpaths, además de participar en otras páginas como Hackaday o Hackster. Pablo también ha dado charlas en diferentes eventos como CriptoredCon, Embedded World o el creators stage de DEFCON."
+      # photo: /images/speakers/pepeFabra.jpeg
+      # links:
+      #   - https://github.com/jofaval/
+
+# - startTime: "17:00"
+#   endTime: "18:00"
+#   room: Sala Visual
+#   language: "es"
+#   title: ""
+#   description: |-
+
+#   speaker:
+#     - name: ""
+#       bio: ""
+#       # photo: /images/speakers/pabloTrujillo.jpeg
+#       # links:
+#       #   - https://controlpaths.com/
 
 - startTime: "18:00"
   endTime: "18:15"
@@ -373,11 +359,11 @@
   title: "Cierre del evento y despedida"
   description: "Breve despedida del evento por parte de los organizadores."
 
-- startTime: "18:15"
-  endTime: "20:00"
-  room: Patio
-  title: "Espacio de Networking"
-  description: "Cerramos la jornada con un espacio dedicado a la conversación y el intercambio de ideas.
+# - startTime: "18:15"
+#   endTime: "20:00"
+#   room: Patio
+#   title: "Espacio de Networking"
+#   description: "Cerramos la jornada con un espacio dedicado a la conversación y el intercambio de ideas.
 
 
-  Una oportunidad para conocer a otros asistentes, compartir experiencias del sector tecnológico y construir relaciones profesionales."
+#   Una oportunidad para conocer a otros asistentes, compartir experiencias del sector tecnológico y construir relaciones profesionales."

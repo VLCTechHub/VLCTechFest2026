@@ -41,8 +41,8 @@ path:
 navigation:
   - about
   # - cfp
-  # - agenda
-  # - workshops
+  - agenda
+  - workshops
   # - speakers
   - faq
   - communities

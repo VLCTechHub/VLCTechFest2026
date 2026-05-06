@@ -1,90 +1,79 @@
 - startTime: "9:30"
   endTime: "11:30"
-  room: Sala Collab
-  title: "Introducción al modelado 3D con FreeCAD"
+  room: Formación
+  title: "VLCTechFest Robot Race"
   description: |-
-    Pretendemos tumbar la barrera inicial que puede cohibir el aprendizaje al encontrarse con una interfaz de usuario desconocida y un proceso de trabajo meticuloso y específico.
+    En el mundo de la robótica maker, los robots siguelíneas y los sumos son las auténticas estrellas de la pista. Pero, ¿quién es el mejor estratega en casa? En este taller, padres, madres e hijos formarán un equipo de ingeniería para enfrentarse a un reto trepidante: construir y programar su propio TuriaBot.
 
-    Con este taller se pretende suavizar la curva de aprendizaje de la herramienta para nuevos usuarios de esta, ya que la interfaz de usuario y los procesos a seguir requieren de cierto conocimiento técnico básico.
+    El objetivo es sencillo pero emocionante: crear un robot siguelíneas basado en ESP32 y optimizar su código para que sea el más veloz de la competición. No os preocupéis por la complejidad técnica; el robot se entrega desmontado y no requiere soldadura. Solo necesitaréis vuestra destreza combinando bridas, cinta de doble cara, un poco de ingenio (y quizás un chicle) para ponerlo a punto.
 
-    La idea es enseñar a realizar piezas básicas, a partir de medidas reales, y motivar al usuario a diseñar piezas con el objetivo de introducirlo al modelado 3D, abriendo la puerta a la impresión 3d, fabricación sustractiva, etc.
-
-    ⚠️ Nota: Es recomendable que los asistentes al taller acudan con FreeCAD ya instalado en sus portátiles. 💻
+    La jornada culminará en una vibrante contrarreloj eliminatoria donde vuestra creación tendrá que demostrar su precisión en varios circuitos. ¿Seréis capaces de trabajar en equipo para conquistar el podio?
   speaker:
-    - name: "Restarters"
-      bio: "Somos un colectivo que cree que reparar y alargar la vida de los bienes materiales por nuestros propios medios forma parte del camino para conseguir la autonomía como personas y la sostenibilidad como sociedad. Apostamos por el derecho y la responsabilidad de cuidar y conocer aquello que poseemos. En una sociedad de consumo reparar es un acto revolucionario"
-      photo: /images/communities/restartersvlc.png
-      links:
-        - https://restartersvlc.wordpress.com/
+    - name: "Pablo Trujillo, Sara Martínez"
+      bio: "Pablo y Sara son dos ingenieros a los que no les gusta estarse quietos. Sara es experta en ciberseguridad, y lleva más de 10 años dedicandose a la calidad de software. Pablo es desarrollador de FPGA, y lleva más de 10 años diseñando e implementando algoritmos de control en FPGA. Además de sus trabajos, ambos están metidos en el mundo Meetup y maker de Valencia, habiendo participado en anteriores ediciones de VLCTechFest, además de colaborar con otros eventos en otras ciudades de España como AsturCONTech o Hackén."
 
 - startTime: "9:30"
   endTime: "11:30"
-  room: Patio
-  registrationLink: "https://www.meetup.com/vlctechhub/events/307868179/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"
-  title: "Taller de soldadura Junior: ¡Suelda tu propia Badge!"
+  room: Pecera
+  title: "Consejos para que tu equipo compile: motivación, acuerdos y gestión de conflictos."
   description: |-
-    Vive una experiencia única combinando tecnología, creatividad y aprendizaje práctico. El taller está diseñado para todos los niveles y es completamente gratuito para todos los participantes. Os guiaremos paso a paso en el mundo de la electrónica a través del montaje de una badge personalizada.
+    Escribir buen código es solo una parte del trabajo. La otra, la que nadie te enseña, es construir un equipo que funcione cuando las cosas se complican.
 
-    ¿Qué haremos?
-    * -- De forma dinámica y cercana, explicaremos cómo funciona la badge, qué componentes contiene y para qué sirve cada uno.
-    * -- Te enseñaremos qué es una estación de soldadura, qué materiales necesitas y cómo usar el soldador con seguridad y precisión.
-    * -- ¡Manos a la obra! Cada participante soldará su propia badge con atención y supervisión individual.
+    En este taller exploramos las dinámicas humanas que determinan si un equipo arranca o se atasca: cómo establecer acuerdos desde el principio, qué necesitamos y qué podemos ofrecer cuando hay tensión, y cómo identificar y resolver conflictos antes de que bloqueen al equipo.
 
-    Os animamos a que vengáis con los peques para que disfrutéis de esta actividad en familia. ¡Es una gran oportunidad para que se inicien en el mundo de la tecnología!
-
-    Por favor, apúntate a este evento para reservar tu plaza. Cada reserva de plaza contará tanto para ti (como adulto) como para tu peque.
-    Si al final no puedes venir, indícanoslo para liberar la plaza para otra persona.
-
-    No dudéis en preguntar cualquier duda que os surja.
-
-- startTime: "12:00"
-  endTime: "14:00"
-  room: Sala Collab
-  title: "Taller de evaluación de accesibilidad - Explorando herramientas y pruebas para garantizar la inclusión"
-  description: |-
-    La accesibilidad no es solo un requerimiento legal o técnico, sino una oportunidad para crear experiencias digitales más inclusivas y usables para todas las personas. En esta charla-taller abordaremos de forma práctica y accesible los fundamentos de la evaluación de accesibilidad digital.
-
-    Exploraremos el uso de herramientas como Microsoft Accessibility Insights, VisBUG o los lectores de pantalla en sí mismo para conocer técnicas de testing y visualizar fallos que no saltan con herramientas automatizadas. También abordaremos ejemplos de barreras de accesibilidad comunes y realizaremos al menos un caso práctico de detección en vivo, donde aplicaremos lo aprendido para reconocer fallos y proponer soluciones.
+    Sesión práctica en la que los asistentes se llevan herramientas para utilizar desde ese día con su equipo, y hasta con su pareja.
   speaker:
-    - name: "David Fernández"
+    - name: "Sonia Montagud"
       bio: |-
-        Me llamo David Fernandez y soy Auditor de Accesibilidad Digital con experiencia tanto en Desktop como en Mobile. Técnico de Sonido reconvertido en Trusted Tester para el Departamento de Seguridad Nacional de EE. UU. (DHS - A11y):
-      photo: /images/speakers/davidFernandez.jpeg
-      links:
-        - https://www.linkedin.com/in/david-f-110741127/
+        Sonia Montagud
+        Estrategia, TecnologIA y Personas
+
+        Ingeniera Informática (especialidad IA y Software), Máster en Ingeniería del Software por la Universidad Politécnica de Valencia (UPV) y Máster en Administración de Startups por la UPV y University of California, Berkeley. Coach certificada por la Universidad Francisco de Vitoria (Madrid) y ORSC.
+
+        Amplia experiencia en gestión de proyectos y productos, innovación, liderazgo, diseño organizacional y cultura en grandes organizaciones, como CaixaBank, Orange, Fujitsu, Banco Santander.
+
+        Mentora en programas de emprendimiento como el Cybersecurity Startup Program organizado por Startup Valencia e Incibe.
 
 - startTime: "12:00"
   endTime: "14:00"
-  room: Patio
-  registrationLink: "https://www.meetup.com/vlctechhub/events/307862702/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"
-  title: "Taller de soldadura"
+  room: Formación
+  title: "VLCTechFest Robot Race - Continuación"
   description: |-
-         De la mano del Hackerspace, os proponemos de nuevo ponernos manos a la obra: Aprende a soldar montando una placa funcional y... ¡al terminar podrás llevártela!
+    En el mundo de la robótica maker, los robots siguelíneas y los sumos son las auténticas estrellas de la pista. Pero, ¿quién es el mejor estratega en casa? En este taller, padres, madres e hijos formarán un equipo de ingeniería para enfrentarse a un reto trepidante: construir y programar su propio TuriaBot.
 
-         Esta actividad es completamente gratuita para todos los participantes pero por favor, apúntate a este evento para reservar tu plaza. Si al final no puedes venir, indícanoslo para liberar la plaza para otra persona.
+    El objetivo es sencillo pero emocionante: crear un robot siguelíneas basado en ESP32 y optimizar su código para que sea el más veloz de la competición. No os preocupéis por la complejidad técnica; el robot se entrega desmontado y no requiere soldadura. Solo necesitaréis vuestra destreza combinando bridas, cinta de doble cara, un poco de ingenio (y quizás un chicle) para ponerlo a punto.
 
-         <a href="https://www.meetup.com/vlctechhub/events/307862702/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">¡Apúntate!</a>
+    La jornada culminará en una vibrante contrarreloj eliminatoria donde vuestra creación tendrá que demostrar su precisión en varios circuitos. ¿Seréis capaces de trabajar en equipo para conquistar el podio?
   speaker:
-    - name: "Hackerspace Valencia"
-      bio: "Compartimos conocimiento, experiencia y pasión por la tecnología. Aquí todos enseñamos y todos aprendemos. Creemos en el software y hardware libre. Compartir es nuestra forma de innovar."
-      photo: /images/communities/hackerspace_logo.jpeg
-      links:
-        - https://hackvlc.es/
+    - name: "Pablo Trujillo, Sara Martínez"
+      bio: "Pablo y Sara son dos ingenieros a los que no les gusta estarse quietos. Sara es experta en ciberseguridad, y lleva más de 10 años dedicandose a la calidad de software. Pablo es desarrollador de FPGA, y lleva más de 10 años diseñando e implementando algoritmos de control en FPGA. Además de sus trabajos, ambos están metidos en el mundo Meetup y maker de Valencia, habiendo participado en anteriores ediciones de VLCTechFest, además de colaborar con otros eventos en otras ciudades de España como AsturCONTech o Hackén."
+
+- startTime: "12:00"
+  endTime: "14:00"
+  room: Nexo
+  title: "Mi primer Phising"
+  description: |-
+    ¿Somos capaces de crear un phishing "a mano"? ¿Sin ningún kit preparado ni herramientas sofisticadas?. En este taller lo vamos a preparar, empezando desde cero y con un ordenador cualquiera.
+
+    Montar un phishing nos da una visión amplia y en profundidad de los mecanismos de seguridad más habituales. Nos ayudará a entenderlos y a utilizarlos correctamente. Evidentemente no queremos atacar a nadie con el phishing que preparemos. Lo que queremos es repasar la tecnología presente en este tipo de ataques, que se mantiene efectivo e inmune al paso del tiempo.
+
+    A todos no suenan los mecanismos que nos protegen en el día a día: DMARC, HSTS, certificados digitales... pero ¿los entendemos bien? ¿nos hemos parado lo suficiente para dominarlos?
+
+    Durante el taller se revisarán los siguientes protocolos: HTTP, HTML, HTTPS, HSTS, SMTP, SPF, DKIM, DMARC, ARC, DNS, DNSSEC, DoH, S/MIME...
+  speaker:
+    - name: "Miguel Macías Enguídanos"
+      bio: "Ingeniero informático con muchos años de experiencia en el sector (pasando por la empresa privada, la administración central, universidades...). Colaborando en proyectos de código abierto y dando charlas e impartiendo docencia en el ámbito de la seguridad, la identidad digital y la programación"
 
 - startTime: "16:00"
   endTime: "18:00"
-  room: Sala Collab
-  registrationLink: ""
-  title: "JavaScript for the Rest of Us"
+  room: Formación
+  # registrationLink: ""
+  title: "Taller de soldadura"
   description: |-
-    Aprender JavaScript puede parecer abrumador, pero la base sigue siendo simple y poderosa.
+    De la mano del Hackerspace, os proponemos de nuevo ponernos manos a la obra: Aprende a soldar montando una placa funcional y... ¡al terminar podrás llevártela!
 
-    Este workshop es para quienes quieren entrar en el mundo tech construyendo fundamentos sólidos: variables, funciones, estructuras de control y buenas prácticas reales, sin perderse en frameworks o modas. Una hora práctica para poner el primer pie en la programación web con criterio y confianza.
+     Esta actividad es completamente gratuita para todos los participantes pero por favor, apúntate a este evento para reservar tu plaza. Si al final no puedes venir, indícanoslo para liberar la plaza para otra persona.
   speaker:
-    - name: "Juan Andrés Núñez Charro"
-      bio: "Soy Senior Frontend Engineer, especialista en Vue.js y educador profesional con más de 10 años de experiencia formando y acompañando a desarrolladores. Combino el dominio técnico con una visión humana del aprendizaje, ayudando a otros a crecer y avanzar en su carrera, especialmente ahora, en la era de la IA."
-      photo: /images/speakers/juanNunez.jpeg
-      links:
-        - https://wmedia.es
-        - https://github.com/juanwmedia
-        - https://www.linkedin.com/in/juanwmedia/
+    - name: "HackerSpace Valencia"
+      bio: "Compartimos conocimiento, experiencia y pasión por la tecnología. Aquí todos enseñamos y todos aprendemos. Creemos en el software y hardware libre. Compartir es nuestra forma de innovar."
+      photo: /images/communities/hackerspace_logo.jpeg
