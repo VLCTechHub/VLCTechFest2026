@@ -56,7 +56,7 @@
     So, what can we do about it in 2026? Thankfully, many technical and legal solutions exist, and we all have a role to play in it. Whether you are an entrepreneur, someone involved into the creation of a software, or a simple user, your choices can have a positive impact.
 
   speaker:
-    - name: "Paul-Emmanuel"
+    - name: "Paul-Emmanuel Raoul"
       bio: "Self-educated since my childhood, I am a technology and science lover with a deep passion for IT, InfoSec, and open-source software, and obsessed by automation. I write software, create learning contents about IT-related topics, and hunt for bugs."
 
 - startTime: "10:30"
@@ -335,23 +335,32 @@
   speaker:
     - name: "Pablo Trujillo"
       bio: "Diseñador de FPGA por más de 10 años, se dedica a la implementación de algoritmos de control. Además de su trabajo, Pablo comparte proyectos en su blog controlpaths, además de participar en otras páginas como Hackaday o Hackster. Pablo también ha dado charlas en diferentes eventos como CriptoredCon, Embedded World o el creators stage de DEFCON."
-      # photo: /images/speakers/pepeFabra.jpeg
-      # links:
-      #   - https://github.com/jofaval/
+      photo: /images/speakers/pabloTrujillo.jpeg
+      links:
+        - https://controlpaths.com/
 
-# - startTime: "17:00"
-#   endTime: "18:00"
-#   room: Sala Visual
-#   language: "es"
-#   title: ""
-#   description: |-
+- startTime: "17:00"
+  endTime: "18:00"
+  room: Sala Visual
+  language: "es"
+  title: "“No era como pensábamos”: cuando las hipótesis UX se refutan y eso es lo mejor que nos puede pasar"
+  description: |-
+    En muchos equipos de producto, el UX Research se utiliza para “validar” ideas. Pero ¿qué pasa cuando las personas usuarias no confirman nuestras hipótesis, sino que las contradicen por completo?
 
-#   speaker:
-#     - name: ""
-#       bio: ""
-#       # photo: /images/speakers/pabloTrujillo.jpeg
-#       # links:
-#       #   - https://controlpaths.com/
+    En esta charla compartiré un caso real en el que partíamos de una premisa aparentemente sólida: los padres quieren tener mayor control sobre las cuentas financieras de sus hijos en una billetera digital. Sin embargo, la investigación reveló algo muy distinto: más que control, buscaban confianza, visibilidad y educación financiera.
+
+    A partir de este ejemplo, exploraremos por qué refutar hipótesis no es un fallo del research, sino uno de sus mayores aportes a la usabilidad y a la toma de decisiones de producto. Veremos cómo gestionar la tensión que surge cuando los hallazgos desafían las expectativas de stakeholders, y cómo transformar esa disconformidad en oportunidades concretas de diseño.
+
+    La sesión propone un cambio de mindset: pasar de investigar para confirmar, a investigar para descubrir. Porque muchas veces, lo más valioso no es validar que vamos en la dirección correcta, sino darnos cuenta a tiempo de que no lo estamos.
+
+    Al finalizar, las personas asistentes se llevarán:
+
+    - –Estrategias para diseñar investigaciones orientadas al descubrimiento real.
+    - –Claves para comunicar hallazgos incómodos de forma efectiva.
+    - –Enfoques para transformar un “esto no funciona” en decisiones de producto claras y accionables.
+  speaker:
+    - name: "Sabrina Nuñez"
+      bio: "Sabrina es UX Researcher. Estudió la carrera de Diseño industrial en la Universidad de Buenos Aires donde descubrió su pasión por entender las necesidades cotidianas de las personas en relación a los productos. Trabajó en entornos multiculturales tanto en empresas nacionales como internacionales. Es speaker y mentora en +Mujeres en UX LATAM y disfruta convertir la voz del usuario en historias que impulsan decisiones."
 
 - startTime: "18:00"
   endTime: "18:15"
