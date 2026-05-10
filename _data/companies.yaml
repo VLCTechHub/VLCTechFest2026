@@ -10,7 +10,7 @@ collaborators:
     link: https://valenciainnovationcapital.com
     size: 100%
 
-sponsors:
+premium_sponsors:
   - name: DKB Code Factory
     image: dkb_logo.png
     link: https://www.dkbcodefactory.com/
@@ -31,6 +31,7 @@ sponsors:
     link: https://www.sesametime.com/
     size: 100%
 
+sponsors:
   - name: UPV - Cátedra HP
     image: catedra_hp_logo.png
     link: https://catedra-hp.webs.upv.es/

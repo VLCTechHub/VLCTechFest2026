@@ -69,6 +69,8 @@ es:
       collaborators: "Colabora:"
       sponsors: "Patrocinadores"
       claim: "Quiero patrocinar"
+      standard: "Estándar:"
+      premium: "Premium:"
   news:
     cfp_open:
       text: Call for papers abierto
@@ -171,6 +173,8 @@ en:
       collaborators: "Supported by:"
       sponsors: "Sponsors"
       claim: "I want to sponsor"
+      standard: "Standard:"
+      premium: "Premium:"
   news:
     cfp_open:
       text: Open call for papers
@@ -272,6 +276,8 @@ ca:
       collaborators: "Col·labora:"
       sponsors: "Sponsors"
       claim: "Vull patrocinar"
+      standard: "Estàndard:"
+      premium: "Premium:"
   news:
     cfp_open:
       text: Call for papers obert
