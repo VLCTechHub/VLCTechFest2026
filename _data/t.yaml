@@ -69,8 +69,8 @@ es:
       collaborators: "Colabora:"
       sponsors: "Patrocinadores"
       claim: "Quiero patrocinar"
-      standard: "Estándar:"
-      premium: "Premium:"
+      standard: "Con el apoyo de la Cátedra HP de la Universitad Politécnica de Valencia"
+      premium: "Premium"
   news:
     cfp_open:
       text: Call for papers abierto
@@ -173,8 +173,8 @@ en:
       collaborators: "Supported by:"
       sponsors: "Sponsors"
       claim: "I want to sponsor"
-      standard: "Standard:"
-      premium: "Premium:"
+      standard: "With the support of the HP Chair at the Polytechnic University of Valencia"
+      premium: "Premium"
   news:
     cfp_open:
       text: Open call for papers
@@ -276,8 +276,8 @@ ca:
       collaborators: "Col·labora:"
       sponsors: "Sponsors"
       claim: "Vull patrocinar"
-      standard: "Estàndard:"
-      premium: "Premium:"
+      standard: "Amb el suport de la Càtedra HP de la Universitat Politècnica de València"
+      premium: "Premium"
   news:
     cfp_open:
       text: Call for papers obert
