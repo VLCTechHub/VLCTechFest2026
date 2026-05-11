@@ -1149,17 +1149,24 @@ ul.speakers {
   }
 }
 
+#sponsors ul.premium {
+  li {
+    max-width: 350px;
+    flex-basis: 50%;
+  }
+}
+
 #sponsors ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   li {
-    width: 25%;
-    max-width: 190px;
+    width: 50%;
+    max-width: 300px;
     text-align: center;
-    flex-basis: 20%;
-    margin-top: 5%;
+    flex-basis: 80%;
+    margin-top: 0%;
 
     img,
     svg {

@@ -44,11 +44,11 @@ navigation:
   - agenda
   - workshops
   # - speakers
-  - faq
-  - communities
-  # - sponsors
-  - coc
   - principles
+  - faq
+  - coc
+  - sponsors
+  - communities
   # - location
 locale:
   es: es_ES

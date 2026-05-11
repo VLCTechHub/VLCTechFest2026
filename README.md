@@ -26,6 +26,14 @@ $ bundle exec jekyll serve --host 0.0.0.0 --watch
 
 Based on https://github.com/sylvaindurand/jekyll-multilingual. For more info visit  the [**Making Jekyll multilingual**](https://www.sylvaindurand.org/making-jekyll-multilingual/) article
 
+## Enabling/Disabling a section
+
+1. Comment/Uncomment the *header link* in `navigation`, inside `_config.yml`.
+2. Comment/Uncomment the *section* in `_includes/pages/index.html`.
+3. Update *info* in `_data/[section].yml`.
+
+> Be careful about the order
+
 ## Changing the logo
 
 The logo of the main page is embedded into the site's HTML. You can change it by editing the SVG node at `_includes/sections/main.html`
