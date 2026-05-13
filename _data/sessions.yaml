@@ -21,7 +21,7 @@
   speaker:
     - name: "Borja Pérez"
       bio: "Marketing Lead en Manfred. Intento crear comunidad compartiendo datos, contexto del mercado tech y la visión desde Manfred."
-      # photo: 
+      # photo:
       # links:
 
 - startTime: "9:30"
@@ -32,7 +32,7 @@
   description: |-
     «La accesibilidad es la muerte de la creatividad»; «No se puede ser creativo y accesible»; «Puede que esta página no sea accesible ni útil, ¡pero es porque es creativa!».
 
-    ¿Cuántas veces has oído alguna de estas frases, o una combinación de ellas? En el mundo digital moderno, existe una tendencia a identificar «accesible» con «feo» y «sacrificio de la imaginación». 
+    ¿Cuántas veces has oído alguna de estas frases, o una combinación de ellas? En el mundo digital moderno, existe una tendencia a identificar «accesible» con «feo» y «sacrificio de la imaginación».
 
     Piccia Neri desmontará estos mitos en su charla, mostrando cómo los sitios web, las apps, y los negocios, pueden ser visibles, bonitos, creativos, accesibles y, al mismo tiempo, extremadamente rentables. Con consejos prácticos sobre cómo utilizar la animación de forma eficaz y accesible.
   speaker:
@@ -63,7 +63,7 @@
   endTime: "11:30"
   room: Sala Polivalente
   language: "Talk in English 🇬🇧"
-  title: "Lessos from Building at Massive Scale"
+  title: "Lessons from Building at Massive Scale"
   description: |-
     Building software at massive scale means designing systems that don’t just work—but continue to work under extreme load, unpredictable traffic spikes, and constant change.
 
@@ -75,7 +75,7 @@
       bio: |-
         Javier Turégano is a platform engineering leader with 20+ years of experience building and operating large-scale distributed systems. He has held senior roles at Canva and Slack, leading global platform and cloud engineering teams supporting products used by hundreds of millions of people.
 
-        His work spans edge, identity, and service architectures, as well as reliability, data residency, and infrastructure at scale. Now an independent consultant and leadership coach, Javier advises companies on platform strategy and runs engineering leadership bootcamps for managers and Staff Engineers. 
+        His work spans edge, identity, and service architectures, as well as reliability, data residency, and infrastructure at scale. Now an independent consultant and leadership coach, Javier advises companies on platform strategy and runs engineering leadership bootcamps for managers and Staff Engineers.
       # photo: /images/speakers/aitanaFrances.jpeg
       # links:
       #   - https://www.aiju.es/
@@ -91,7 +91,7 @@
 
     La inteligencia artificial conversacional está evolucionando rápidamente desde simples chatbots hacia sistemas capaces de analizar la interacción humana y detectar rasgos concretos. Esta charla presenta el desarrollo de modelos de IA conversacional orientados a la identificación temprana de neurodivergencias, explorando cómo una conversación natural y cotidiana puede convertirse en una herramienta para observar patrones de comunicación, interacción social, flexibilidad cognitiva o sensibilidad sensorial en contextos reales.
 
-    A partir de un caso aplicado en el ámbito del Trastorno del Espectro Autista (TEA), se mostrará cómo es posible crear agentes conversacionales capaces de sostener interacciones naturalistas y adaptativas, alejadas de los cuestionarios tradicionales. El enfoque se basa en traducir marcos clínicos consolidados, como los criterios DSM-5 y herramientas de evaluación validadas, a arquitecturas conversacionales estructuradas que permiten recoger información relevante de forma más accesible, escalable y menos intrusiva. 
+    A partir de un caso aplicado en el ámbito del Trastorno del Espectro Autista (TEA), se mostrará cómo es posible crear agentes conversacionales capaces de sostener interacciones naturalistas y adaptativas, alejadas de los cuestionarios tradicionales. El enfoque se basa en traducir marcos clínicos consolidados, como los criterios DSM-5 y herramientas de evaluación validadas, a arquitecturas conversacionales estructuradas que permiten recoger información relevante de forma más accesible, escalable y menos intrusiva.
 
     Durante la charla se explicará el proceso de creación de estos sistemas: desde el diseño de la lógica conversacional por fases (rapport, exploración y profundización), hasta la implementación de mecanismos de seguimiento interno que permiten analizar patrones en tiempo real y generar resultados interpretables. Se abordará cómo los modelos de lenguaje pueden integrar observación estructurada sin perder naturalidad en la interacción, y cómo este tipo de soluciones puede aplicarse en entornos educativos y de salud digital como apoyo a la detección temprana.
   speaker:
@@ -177,7 +177,7 @@
   description: |-
     ¿Qué pasa cuando tu usuario tiene 3 años y la IA no puede ayudarte a entenderlo?
 
-    Cuando trabajas en el sector EdTech, y parte de tus usuarios son menores que ni saben leer, aprendes que ni los dashboards más sofisticados ni la IA más avanzada pueden sustituir ver a un/a niña/o intentar usar tu app sin saber leer ni expresar qué le frustra. 
+    Cuando trabajas en el sector EdTech, y parte de tus usuarios son menores que ni saben leer, aprendes que ni los dashboards más sofisticados ni la IA más avanzada pueden sustituir ver a un/a niña/o intentar usar tu app sin saber leer ni expresar qué le frustra.
 
     En esta charla compartiré casos reales de esos momentos en los que te despegas de tu PC y tu mundo en pantallas, y observas a tus usuarios en su hábitat natural, y descubres que todas tus hipótesis no eran las más acertadas. Hablaré de por qué algunos problemas de producto solo se resuelven mirando, no midiendo. Y trataré de abordar la siguiente pregunta: en plena auge de la IA, ¿de verdad creemos que podemos hacer e iterar productos sin ver cómo los usa la gente real?
   speaker:
@@ -231,7 +231,7 @@
   language: "Talk in English 🇬🇧"
   title: "From Human-Driven to Autonomous Systems: Our Journey to an AI-Native SDLC"
   description: |-
-    AI is changing how we write code, but what happens when software development becomes intent-driven? In this talk, we’ll share how we transformed our SDLC into an AI-native system where developers define intent and autonomous background agents execute, validate, and improve software continuously. 
+    AI is changing how we write code, but what happens when software development becomes intent-driven? In this talk, we’ll share how we transformed our SDLC into an AI-native system where developers define intent and autonomous background agents execute, validate, and improve software continuously.
 
     These agents operate across sandbox environments, handling everything from flaky tests to production fixes. To make this possible, we built a standardized knowledge substrate for both humans and agents, redesigned our systems for machine consumption, evaluated yield instead of raw team throughput and rethought PCI/SOX/SOCII compliance boundaries.
 
@@ -269,7 +269,7 @@
   language: "Talk in English 🇬🇧"
   title: "Build trust, keep your job"
   description: |-
-    Getting a job in tech is hard enough these days, but starting strong once you’re hired can be just as challenging. This talk looks at what helps new people build trust in their teams during those first critical months. 
+    Getting a job in tech is hard enough these days, but starting strong once you’re hired can be just as challenging. This talk looks at what helps new people build trust in their teams during those first critical months.
 
     Instead of focusing on interviews, CVs, or LinkedIn profiles, it shifts the attention to what happens after you join: how people around you decide whether they can rely on you, work with you, and give you more autonomy. Based on research in organizational psychology, the talk introduces three core ingredients of trust: ability, integrity, and benevolence.
 
@@ -307,11 +307,11 @@
   language: "Talk in English 🇬🇧"
   title: "Why Female Role Models are Tech’s Greatest Untapped Asset"
   description: |-
-    I'll be talking about my own experience as a woman in historically male environments - coordinator on a large hospital reconstruction, leading manager for the scalability of a surgical robotic manufacturing site, program manager in the Enterprise Data Office at AstraZeneca, and here in Valencia, building the Healthtech Community Valencia as both expath and a woman. 
-    
-    The main idea is to show that the biggest impact on my career was made by other women in charge. I strived in my career while battling impostor syndrome, only because I saw what other women achieved, and they were always positive when I asked for help navigating the tech environment. As a result, I aimed to become that role model for my junior female peers. 
+    I'll be talking about my own experience as a woman in historically male environments - coordinator on a large hospital reconstruction, leading manager for the scalability of a surgical robotic manufacturing site, program manager in the Enterprise Data Office at AstraZeneca, and here in Valencia, building the Healthtech Community Valencia as both expath and a woman.
 
-    There are simple things we can do to help: never use misogyny to compete in a man's world, be a female ambassador  - always recommend another woman for the job, and share unwritten rules with female colleagues. 
+    The main idea is to show that the biggest impact on my career was made by other women in charge. I strived in my career while battling impostor syndrome, only because I saw what other women achieved, and they were always positive when I asked for help navigating the tech environment. As a result, I aimed to become that role model for my junior female peers.
+
+    There are simple things we can do to help: never use misogyny to compete in a man's world, be a female ambassador  - always recommend another woman for the job, and share unwritten rules with female colleagues.
   speaker:
     - name: "Mariia Suleiman"
       bio: "I'm a tech enthusiast with 14 solid years of experience in HealthTech, Big Pharma, and Robotics - bringing amazing projects to life, while coaching female experts in originally very male environments. I evangelise the power of female role models in the tech world"
