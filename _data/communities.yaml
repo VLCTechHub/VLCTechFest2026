@@ -189,6 +189,11 @@
   links:
     - https://www.meetup.com/vlcqualityclub
 
+- name: "Latinas in Tech"
+  image: latinas_in_tech_spain.png
+  links:
+    - https://latinasintech.org/chapter/spain
+
 # non-participating communities
 
 # - name: HackValencia%27
