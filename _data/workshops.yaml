@@ -14,7 +14,7 @@
 
 - startTime: "9:30"
   endTime: "11:30"
-  room: Pecera
+  room: Ágora
   title: "Consejos para que tu equipo compile: motivación, acuerdos y gestión de conflictos."
   description: |-
     Escribir buen código es solo una parte del trabajo. La otra, la que nadie te enseña, es construir un equipo que funcione cuando las cosas se complican.
@@ -36,7 +36,7 @@
 
 - startTime: "12:00"
   endTime: "14:00"
-  room: Formación
+  room: Nexo
   title: "VLCTechFest Robot Race - Continuación"
   description: |-
     En el mundo de la robótica maker, los robots siguelíneas y los sumos son las auténticas estrellas de la pista. Pero, ¿quién es el mejor estratega en casa? En este taller, padres, madres e hijos formarán un equipo de ingeniería para enfrentarse a un reto trepidante: construir y programar su propio TuriaBot.
@@ -50,7 +50,7 @@
 
 - startTime: "12:00"
   endTime: "14:00"
-  room: Nexo
+  room: Ágora
   title: "Mi primer Phising"
   description: |-
     ¿Somos capaces de crear un phishing "a mano"? ¿Sin ningún kit preparado ni herramientas sofisticadas?. En este taller lo vamos a preparar, empezando desde cero y con un ordenador cualquiera.
@@ -66,7 +66,7 @@
 
 - startTime: "16:00"
   endTime: "18:00"
-  room: Formación
+  room: Nexo
   # registrationLink: ""
   title: "Taller de soldadura"
   description: |-
