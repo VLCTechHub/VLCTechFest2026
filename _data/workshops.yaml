@@ -1,6 +1,7 @@
 - startTime: "9:30"
   endTime: "11:30"
   room: Nexo
+  registrationLink: "https://www.meetup.com/vlctechhub/events/314814891/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=182751113"
   title: "VLCTechFest Robot Race"
   description: |-
     En el mundo de la robótica maker, los robots siguelíneas y los sumos son las auténticas estrellas de la pista. Pero, ¿quién es el mejor estratega en casa? En este taller, padres, madres e hijos formarán un equipo de ingeniería para enfrentarse a un reto trepidante: construir y programar su propio TuriaBot.
@@ -67,7 +68,7 @@
 - startTime: "16:00"
   endTime: "18:00"
   room: Nexo
-  # registrationLink: ""
+  registrationLink: "https://www.meetup.com/vlctechhub/events/314834637/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=182751113"
   title: "Taller de soldadura"
   description: |-
     De la mano del Hackerspace, os proponemos de nuevo ponernos manos a la obra: Aprende a soldar montando una placa funcional y... ¡al terminar podrás llevártela!
