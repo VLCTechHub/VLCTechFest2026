@@ -45,9 +45,6 @@
     El objetivo es sencillo pero emocionante: crear un robot siguelíneas basado en ESP32 y optimizar su código para que sea el más veloz de la competición. No os preocupéis por la complejidad técnica; el robot se entrega desmontado y no requiere soldadura. Solo necesitaréis vuestra destreza combinando bridas, cinta de doble cara, un poco de ingenio (y quizás un chicle) para ponerlo a punto.
 
     La jornada culminará en una vibrante contrarreloj eliminatoria donde vuestra creación tendrá que demostrar su precisión en varios circuitos. ¿Seréis capaces de trabajar en equipo para conquistar el podio?
-  speaker:
-    - name: "Pablo Trujillo, Sara Martínez"
-      bio: "Pablo y Sara son dos ingenieros a los que no les gusta estarse quietos. Sara es experta en ciberseguridad, y lleva más de 10 años dedicandose a la calidad de software. Pablo es desarrollador de FPGA, y lleva más de 10 años diseñando e implementando algoritmos de control en FPGA. Además de sus trabajos, ambos están metidos en el mundo Meetup y maker de Valencia, habiendo participado en anteriores ediciones de VLCTechFest, además de colaborar con otros eventos en otras ciudades de España como AsturCONTech o Hackén."
 
 - startTime: "12:00"
   endTime: "14:00"
