@@ -76,10 +76,6 @@
         Javier Turégano is a platform engineering leader with 20+ years of experience building and operating large-scale distributed systems. He has held senior roles at Canva and Slack, leading global platform and cloud engineering teams supporting products used by hundreds of millions of people.
 
         His work spans edge, identity, and service architectures, as well as reliability, data residency, and infrastructure at scale. Now an independent consultant and leadership coach, Javier advises companies on platform strategy and runs engineering leadership bootcamps for managers and Staff Engineers.
-      # photo: /images/speakers/aitanaFrances.jpeg
-      # links:
-      #   - https://www.aiju.es/
-      #   - https://www.linkedin.com/in/aitana-francés-293a88208
 
 - startTime: "10:30"
   endTime: "11:30"
@@ -97,7 +93,9 @@
   speaker:
     - name: "Aitana Francés"
       bio: "Aitana Francés es Project Manager del Instituto Tecnológico de Producto Infantil y Ocio (AIJU). Está especializada en e-Health y tecnologías para la salud, centrando su trabajo en la aplicación de herramientas como inteligencia artificial (IA), realidad virtual (VR) y realidad aumentada (AR) para el desarrollo de soluciones dirigidas a personas no neurotípicas. Su actividad se orienta al diseño de propuestas innovadoras que favorecen la inclusión, el bienestar, la interacción y la mejora de la calidad de vida a través de la tecnología."
-      # photo: /images/speakers/carlosMuncharaz.jpeg
+      photo: /images/speakers/aitanaFrances.jpeg
+      links:
+        - https://www.linkedin.com/in/aitana-francés-293a88208
 
 - startTime: "10:30"
   endTime: "11:30"
@@ -183,9 +181,6 @@
   speaker:
     - name: "Andrea López"
       bio: "Product Manager en la actualidad, y con mente de ingenieria informática. Me encanta ser PM por una razón simple: es uno de los roles donde realmente puedo hacer que los cambios sucedan. Empecé mi aventura laboral hace 13 años en el mundo corporativo, pero luego me pasé al mundo de las startups. Actualmente trabajo en una aplicación de juegos educativos para niños/as, siendo la única empresa española por la que the LEGO Foundation ha apostado."
-      # photo: /images/speakers/emilioCarrion.jpeg
-      # links:
-        # - https://www.productcrafter.com/
 
 - startTime: "13:00"
   endTime: "14:00"
@@ -203,9 +198,10 @@
   speaker:
     - name: "Maria Victoria"
       bio: "Especialista en Growth, Estrategia de Producto y Operaciones, con experiencia liderando iniciativas cross-funcionales en entornos tech hace +15 años. Ayuda a equipos y líderes a destrabar problemas complejos y a generar impacto real en su negocio."
-      # photo: /images/speakers/florenciaCattelani.jpg
-      # links:
-      #   - https://www.linkedin.com/in/florenciacattelani/
+      photo: /images/speakers/maviCarrasco.png
+      links:
+        - https://www.linkedin.com/in/mavicarrasco
+        - https://www.instagram.com/mavi.carrasco
 
 - startTime: "13:00"
   endTime: "14:00"
@@ -221,9 +217,9 @@
   speaker:
     - name: "Andros Fenollosa"
       bio: "Full Stack Developer. Escribo artículos, libros y mantengo proyectos open source de todo tipo. Estoy orgulloso de ser el creador de Django LiveView, Org Social, entusiasta de Emacs, radioaficionado y amante de la programación funcional. "
-      # photo: /images/speakers/jesusJimenez.jpeg
-      # links:
-        # - https://github.com/jjballano
+      photo: /images/speakers/androsFenollosa.jpeg
+      links:
+        - https://andros.dev/
 
 - startTime: "13:00"
   endTime: "14:00"
@@ -259,9 +255,11 @@
   speaker:
     - name: "Emilio Coppola"
       bio: "Emilio Coppola es el director ejecutivo de la Godot Foundation y supervisa el desarrollo y la sostenibilidad del motor de código abierto. Con experiencia en desarrollo web y experiencia en empresas tecnológicas, pasó de crear juegos y contenido educativo para la comunidad Godot a liderar la Fundación. En su función, gestiona donaciones, asigna recursos e impulsa el crecimiento del motor manteniendo su naturaleza gratuita y de código abierto posicionándolo como una alternativa competitiva en la industria del desarrollo de video juegos."
-    # photo: /images/speakers/raisaLipatova.jpeg
-    # links:
-    # - https://qauniverse.ru/
+      photo: /images/speakers/emilioCoppola.png
+      links:
+        - https://bsky.app/profile/coppolaemilio.com
+        - https://github.com/coppolaemilio
+        - https://mastodon.social/@emi_cpl
 
 - startTime: "16:00"
   endTime: "17:00"
@@ -315,9 +313,9 @@
   speaker:
     - name: "Mariia Suleiman"
       bio: "I'm a tech enthusiast with 14 solid years of experience in HealthTech, Big Pharma, and Robotics - bringing amazing projects to life, while coaching female experts in originally very male environments. I evangelise the power of female role models in the tech world"
-      # photo: /images/speakers/julietaZalduendo.jpeg
-      # links:
-      #   - https://www.linkedin.com/in/julietazalduendo/
+      photo: /images/speakers/mariiaSuleiman.jpg
+      links:
+        - https://www.linkedin.com/in/mariia-suleiman
 
 - startTime: "17:00"
   endTime: "18:00"
@@ -361,6 +359,9 @@
   speaker:
     - name: "Sabrina Nuñez"
       bio: "Sabrina es UX Researcher. Estudió la carrera de Diseño industrial en la Universidad de Buenos Aires donde descubrió su pasión por entender las necesidades cotidianas de las personas en relación a los productos. Trabajó en entornos multiculturales tanto en empresas nacionales como internacionales. Es speaker y mentora en +Mujeres en UX LATAM y disfruta convertir la voz del usuario en historias que impulsan decisiones."
+      photo: /images/speakers/sabrinaNuñez.jpg
+      links:
+        - https://www.linkedin.com/in/aitana-francés-293a88208
 
 - startTime: "18:00"
   endTime: "18:15"
