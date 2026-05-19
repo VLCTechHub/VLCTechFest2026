@@ -21,8 +21,10 @@
   speaker:
     - name: "Borja Pérez"
       bio: "Marketing Lead en Manfred. Intento crear comunidad compartiendo datos, contexto del mercado tech y la visión desde Manfred."
-      # photo:
-      # links:
+      photo: /images/speakers/borjaPerez.jpg
+      links:
+        - https://www.linkedin.com/in/borjaperfra/
+        - https://x.com/borjaperfra
 
 - startTime: "9:30"
   endTime: "10:30"
@@ -300,9 +302,9 @@
   speaker:
     - name: "Andrea Soler"
       bio: "Soy una creativa multidisciplinar, a falta de mejores palabras. Con estudios en Product Design, ahora trabajo como Visual Designer, pero en general diría que mi trabajo es solucionar problemas. Uso mi experiencia en diferentes áreas artísticas y técnicas para seguir creciendo como profesional, dejando que mi curiosidad me abra el camino."
-      # photo: /images/speakers/mangelycia.jpeg
-      # links:
-      #   - https://secture.com/author/javi/
+      photo: /images/speakers/andreaSoler.png
+      links:
+        - https://www.linkedin.com/in/andreasolerparra
 
 - startTime: "17:00"
   endTime: "18:00"
