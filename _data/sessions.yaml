@@ -57,7 +57,12 @@
 
   speaker:
     - name: "Paul-Emmanuel Raoul"
-      bio: "Self-educated since my childhood, I am a technology and science lover with a deep passion for IT, InfoSec, and open-source software, and obsessed by automation. I write software, create learning contents about IT-related topics, and hunt for bugs."
+      bio: "Self-educated since my childhood, I am a technology and science lover with a deep passion for IT, information security, and open-source software, and I am also obsessed with automation. I write software, create learning content about IT-related topics, and hunt for bugs. I work for myself and provide IT engineering services through SkypLabs."
+      photo: /images/speakers/paulEmmanuel.jpeg
+      links:
+        - https://blog.skyplabs.net/
+        - https://fosstodon.org/@Skyper
+        - https://skyplabs.com/
 
 - startTime: "10:30"
   endTime: "11:30"
@@ -196,7 +201,7 @@
 
     Los asistentes se llevarán marcos mentales y herramientas prácticas que podrán aplicar inmediatamente para tomar decisiones con más claridad, velocidad y confianza, incluso en situaciones donde no existe una respuesta correcta.
   speaker:
-    - name: "Maria Victoria"
+    - name: "Maria Victoria Carrasco"
       bio: "Especialista en Growth, Estrategia de Producto y Operaciones, con experiencia liderando iniciativas cross-funcionales en entornos tech hace +15 años. Ayuda a equipos y líderes a destrabar problemas complejos y a generar impacto real en su negocio."
       photo: /images/speakers/maviCarrasco.png
       links:
