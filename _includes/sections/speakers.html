@@ -8,44 +8,48 @@
       {%- assign sessions = site.data.sessions -%}
       {%- for session in sessions -%}
         {%- for speaker in session.speaker -%}
-          <li>
-            {% if speaker.photo %}
-              <img src="{{speaker.photo}}" alt="">
-            {% else %}
-              {%- include icon-megaphone.svg -%}
-            {% endif %}
-            <p class="title"><span>{{speaker.name}}</span></p>
-            <p>
-              {{speaker.bio}}
-              <ul class="social">
-                {%- for link in speaker.links -%}
-                  <li>{% include icon-social.html url=link %}</li>
-                {%- endfor -%}
-              </ul>
-            </p>
-          </li>
+          {% unless speaker.skip %}
+            <li>
+              {% if speaker.photo %}
+                <img src="{{speaker.photo}}" alt="">
+              {% else %}
+                {%- include icon-megaphone.svg -%}
+              {% endif %}
+              <p class="title"><span>{{speaker.name}}</span></p>
+              <p>
+                {{speaker.bio}}
+                <ul class="social">
+                  {%- for link in speaker.links -%}
+                    <li>{% include icon-social.html url=link %}</li>
+                  {%- endfor -%}
+                </ul>
+              </p>
+            </li>
+          {% endunless %}
         {%- endfor -%}
       {%- endfor -%}
 
       {%- assign workshops = site.data.workshops -%}
       {%- for workshop in workshops -%}
         {%- for speaker in workshop.speaker -%}
-          <li>
-            {% if speaker.photo %}
-              <img src="{{speaker.photo}}" alt="">
-            {% else %}
-              {%- include icon-megaphone.svg -%}
-            {% endif %}
-            <p class="title"><span>{{speaker.name}}</span></p>
-            <p>
-              {{speaker.bio}}
-              <ul class="social">
-                {%- for link in speaker.links -%}
-                  <li>{% include icon-social.html url=link %}</li>
-                {%- endfor -%}
-              </ul>
-            </p>
-          </li>
+          {% unless speaker.skip %}
+            <li>
+              {% if speaker.photo %}
+                <img src="{{speaker.photo}}" alt="">
+              {% else %}
+                {%- include icon-megaphone.svg -%}
+              {% endif %}
+              <p class="title"><span>{{speaker.name}}</span></p>
+              <p>
+                {{speaker.bio}}
+                <ul class="social">
+                  {%- for link in speaker.links -%}
+                    <li>{% include icon-social.html url=link %}</li>
+                  {%- endfor -%}
+                </ul>
+              </p>
+            </li>
+          {% endunless %}
         {%- endfor -%}
       {%- endfor -%}
     </ul>

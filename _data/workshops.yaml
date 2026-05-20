@@ -10,8 +10,14 @@
 
     La jornada culminará en una vibrante contrarreloj eliminatoria donde vuestra creación tendrá que demostrar su precisión en varios circuitos. ¿Seréis capaces de trabajar en equipo para conquistar el podio?
   speaker:
-    - name: "Pablo Trujillo, Sara Martínez"
-      bio: "Pablo y Sara son dos ingenieros a los que no les gusta estarse quietos. Sara es experta en ciberseguridad, y lleva más de 10 años dedicandose a la calidad de software. Pablo es desarrollador de FPGA, y lleva más de 10 años diseñando e implementando algoritmos de control en FPGA. Además de sus trabajos, ambos están metidos en el mundo Meetup y maker de Valencia, habiendo participado en anteriores ediciones de VLCTechFest, además de colaborar con otros eventos en otras ciudades de España como AsturCONTech o Hackén."
+    - name: "Sara Martínez"
+      bio: "Sara Martínez es ingeniera experta en ciberseguridad con más de 10 años dedicándose a la calidad de software. Además de su trabajo, está metida en el mundo Meetup y maker de Valencia, habiendo participado en anteriores ediciones de VLCTechFest y colaborando con otros eventos en ciudades como AsturCONTech o Hackén."
+      photo: /images/speakers/saraMartinez.jpeg
+      links:
+        - https://testingsoul.com/
+    - name: "Pablo Trujillo"
+      bio: "Pablo Trujillo es desarrollador de FPGA con más de 10 años diseñando e implementando algoritmos de control en FPGA. Además de su trabajo, está metido en el mundo Meetup y maker de Valencia, habiendo participado en anteriores ediciones de VLCTechFest y colaborando con otros eventos en ciudades como AsturCONTech o Hackén."
+      skip: true
 
 - startTime: "9:30"
   endTime: "11:30"

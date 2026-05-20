@@ -79,6 +79,9 @@
     This is a practical, experience-driven talk focused on the realities of operating systems at scale—where failure is inevitable, and resilience is designed.
   speaker:
     - name: "Javier Turégano"
+      photo: /images/speakers/javier_turegano.jpeg
+      links:
+        - https://turegano.net/
       bio: |-
         Javier Turégano is a platform engineering leader with 20+ years of experience building and operating large-scale distributed systems. He has held senior roles at Canva and Slack, leading global platform and cloud engineering teams supporting products used by hundreds of millions of people.
 
@@ -118,9 +121,9 @@
   speaker:
     - name: "Kiko Avellaneda"
       bio: "Kiko Avellaneda es Product Lead y autor del libro Haz Producto. Lleva años ayudando a equipos de desarrollo y startups a pasar de entregar funcionalidades a generar impacto real. En sus charlas conecta Agile, producto y desarrollo de software desde los problemas reales que viven los equipos en su día a día y cómo empezar a resolverlos de forma práctica."
-      # photo: /images/speakers/ismaelCanal.jpeg
-      # links:
-      #   - https://ismael.fyi
+      photo: /images/speakers/kiko.jpeg
+      links:
+        - https://www.linkedin.com/in/kiko-avellaneda/
 
 - startTime: "11:30"
   endTime: "12:00"
@@ -142,14 +145,18 @@
 
     This isn’t a hype talk. We’re not going to tell you AI will replace anyone. We’re going to show you where it works, where it gets in the way, and why a developer’s judgment is still what separates a useful test from a decorative one.
   speaker:
-    - name: "Emilio Carrión, Alex Fuentes"
+    - name: "Emilio Carrión"
       bio: |-
-        Emilio Carrión: Staff Engineer at Mercadona Tech and PhD candidate at UPV. A technical content creator who turns every architecture decision into a LinkedIn post. Still convinced that code is a means, not an end—although sometimes the means costs him 45 minutes of scrolling.
-
-        Alex Fuentes: Staff Frontend Engineer at Mercadona Tech. He’s been doing TDD with React for so many years that he no longer remembers how to program without writing a test first. He says AI is fine, but a good test is still better written by a person with coffee.
-      # photo: /images/speakers/zeroycia.jpeg
-      # links:
-      #   - https://www.linkedin.com/in/jorge-borja-valdivia-249651bb/
+        Staff Engineer at Mercadona Tech and PhD candidate at UPV. A technical content creator who turns every architecture decision into a LinkedIn post. Still convinced that code is a means, not an end—although sometimes the means costs him 45 minutes of scrolling.
+      photo: /images/speakers/emilioCarrion.jpeg
+      links:
+        - https://www.emiliocarrion.com/
+    - name: "Alex Fuentes"
+      bio: |-
+        Staff Frontend Engineer at Mercadona Tech. He’s been doing TDD with React for so many years that he no longer remembers how to program without writing a test first. He says AI is fine, but a good test is still better written by a person with coffee.
+      photo: /images/speakers/alex_fuentes.jpeg
+      links:
+        - https://www.linkedin.com/in/alfupe/
 
 - startTime: "12:00"
   endTime: "13:00"
@@ -165,15 +172,18 @@
 
     Si te interesa llevar el navegador más allá de lo habitual, esta charla es para ti.
   speaker:
-    - name: "Sandra Saornil, Sam Gathercole"
+    - name: "Sandra Saornil"
       bio: |-
-        Sandra Saornil: "Empecé pelando cables y ayudando a físicos locos a descubrir nuevas partículas pero encontré mi oasis construyendo productos que solucionan problemas reales usando la cantidad mínima y justa de tecnología para ello. Me encontrarás priorizando proyectos con un impacto positivo en la sociedad y que me hagan sentir que sigo teniendo mucho por aprender."
-
-        Sam Gathercoloe: "Mi trayectoria profesional abarca desde grandes empresas y startups hasta proyectos en etapas iniciales, lo que me ha dado una experiencia diversa en sectores como fintech, retail, monitoreo y sistemas hidráulicos. Ahora, estoy aprovechando todo ese bagaje para innovar en el modelado de redes hidráulicas a través de soluciones de código abierto."
-      # photo: /images/speakers/javierMarti.jpeg
-      # links:
-        # - https://github.com/xabim
-
+        Empezó pelando cables y ayudando a físicos locos a descubrir nuevas partículas pero encontró su oasis construyendo productos que solucionan problemas reales usando la cantidad mínima y justa de tecnología para ello. La encontrarás priorizando proyectos con un impacto positivo en la sociedad y que le hagan sentir que sigue teniendo mucho por aprender.
+      photo: /images/speakers/sandra_saornil.jpeg
+      links:
+        - https://www.linkedin.com/in/ssaornil/
+    - name: "Sam Gathercole"
+      bio: |-
+        Su trayectoria profesional abarca desde grandes empresas y startups hasta proyectos en etapas iniciales, lo que le ha dado una experiencia diversa en sectores como fintech, retail, monitoreo y sistemas hidráulicos. Ahora, está aprovechando todo ese bagaje para innovar en el modelado de redes hidráulicas a través de soluciones de código abierto.
+      photo: /images/speakers/sam.png
+      links:
+        - https://www.linkedin.com/in/sapagat/
 - startTime: "12:00"
   endTime: "13:00"
   room: Sala Visual
@@ -242,9 +252,9 @@
   speaker:
     - name: "Luis Belloch"
       bio: "Luis Belloch es un ingeniero de software senior con más de 25 años de experiencia en el sector tecnológico. Actualmente ocupa el puesto de Senior Engineering Manager en Flywire, donde lidera equipos responsables del desarrollo del motor de pagos y su API pública, que procesan miles de transacciones internacionales cada día."
-      # photo: /images/speakers/saraMartinez.jpeg
-      # links:
-      #   - www.testingsoul.com
+      photo: /images/speakers/luis_belloch.png
+      links:
+        - https://www.linkedin.com/in/luisbelloch/
 
 - startTime: "14:00"
   endTime: "16:00"
@@ -282,9 +292,9 @@
   speaker:
     - name: "Asya Isakova"
       bio: "Asya is an organizational psychologist, scientist-practitioner, lecturer, and consultant working with IT teams and leaders. She’s been studying and practicing how to make work suck less since 2007 with various teams and leaders, including Firtune 500 companies. Lately, she’s been deeply into trust at work—bridging academia with hands-on leadership experience."
-      # photo: /images/speakers/javierCasal.jpeg
-      # links:
-      #   - https://bsky.app/profile/javiercasal.bsky.social
+      photo: /images/speakers/asya.jpg
+      links:
+        - https://www.linkedin.com/in/asyaisakova/
 
 - startTime: "16:00"
   endTime: "17:00"
@@ -360,9 +370,10 @@
 
     Al finalizar, las personas asistentes se llevarán:
 
-    - –Estrategias para diseñar investigaciones orientadas al descubrimiento real.
-    - –Claves para comunicar hallazgos incómodos de forma efectiva.
-    - –Enfoques para transformar un “esto no funciona” en decisiones de producto claras y accionables.
+    - Estrategias para diseñar investigaciones orientadas al descubrimiento real.
+    - Claves para comunicar hallazgos incómodos de forma efectiva.
+    - Enfoques para transformar un “esto no funciona” en decisiones de producto claras y accionables.
+
   speaker:
     - name: "Sabrina Nuñez"
       bio: "Sabrina es UX Researcher. Estudió la carrera de Diseño industrial en la Universidad de Buenos Aires donde descubrió su pasión por entender las necesidades cotidianas de las personas en relación a los productos. Trabajó en entornos multiculturales tanto en empresas nacionales como internacionales. Es speaker y mentora en +Mujeres en UX LATAM y disfruta convertir la voz del usuario en historias que impulsan decisiones."
