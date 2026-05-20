@@ -21,8 +21,10 @@
   speaker:
     - name: "Borja Pérez"
       bio: "Marketing Lead en Manfred. Intento crear comunidad compartiendo datos, contexto del mercado tech y la visión desde Manfred."
-      # photo:
-      # links:
+      photo: /images/speakers/borjaPerez.jpg
+      links:
+        - https://www.linkedin.com/in/borjaperfra/
+        - https://x.com/borjaperfra
 
 - startTime: "9:30"
   endTime: "10:30"
@@ -57,7 +59,12 @@
 
   speaker:
     - name: "Paul-Emmanuel Raoul"
-      bio: "Self-educated since my childhood, I am a technology and science lover with a deep passion for IT, InfoSec, and open-source software, and obsessed by automation. I write software, create learning contents about IT-related topics, and hunt for bugs."
+      bio: "Self-educated since my childhood, I am a technology and science lover with a deep passion for IT, information security, and open-source software, and I am also obsessed with automation. I write software, create learning content about IT-related topics, and hunt for bugs. I work for myself and provide IT engineering services through SkypLabs."
+      photo: /images/speakers/paulEmmanuel.jpeg
+      links:
+        - https://blog.skyplabs.net/
+        - https://fosstodon.org/@Skyper
+        - https://skyplabs.com/
 
 - startTime: "10:30"
   endTime: "11:30"
@@ -196,7 +203,7 @@
 
     Los asistentes se llevarán marcos mentales y herramientas prácticas que podrán aplicar inmediatamente para tomar decisiones con más claridad, velocidad y confianza, incluso en situaciones donde no existe una respuesta correcta.
   speaker:
-    - name: "Maria Victoria"
+    - name: "Maria Victoria Carrasco"
       bio: "Especialista en Growth, Estrategia de Producto y Operaciones, con experiencia liderando iniciativas cross-funcionales en entornos tech hace +15 años. Ayuda a equipos y líderes a destrabar problemas complejos y a generar impacto real en su negocio."
       photo: /images/speakers/maviCarrasco.png
       links:
@@ -295,9 +302,9 @@
   speaker:
     - name: "Andrea Soler"
       bio: "Soy una creativa multidisciplinar, a falta de mejores palabras. Con estudios en Product Design, ahora trabajo como Visual Designer, pero en general diría que mi trabajo es solucionar problemas. Uso mi experiencia en diferentes áreas artísticas y técnicas para seguir creciendo como profesional, dejando que mi curiosidad me abra el camino."
-      # photo: /images/speakers/mangelycia.jpeg
-      # links:
-      #   - https://secture.com/author/javi/
+      photo: /images/speakers/andreaSoler.png
+      links:
+        - https://www.linkedin.com/in/andreasolerparra
 
 - startTime: "17:00"
   endTime: "18:00"
