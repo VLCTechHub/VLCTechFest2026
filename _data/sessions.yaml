@@ -40,8 +40,9 @@
   speaker:
     - name: "Piccia Neri"
       bio: "Piccia Neri es diseñadora, consultora y formadora en experiencia de usuario (UX) y diseño accesible. Piccia dirige proyectos internacionales para empresas de todos los tamaños y forma a diseñadores, profesionales del marketing y desarrolladores para que sitúen la accesibilidad en el centro de su trabajo. Piccia imparte conferencias en todo el mundo y, actualmente, se propone demostrar que el diseño inclusivo no frena ni la creatividad ni la rentabilidad, sino que las potencia. "
-      # photo: /images/speakers/aguedaMachado.jpg
-      # links:
+      photo: /images/speakers/piccia_neri.jpeg
+      links:
+        - https://piccianeri.com/
 
 - startTime: "9:30"
   endTime: "10:30"
@@ -198,6 +199,9 @@
   speaker:
     - name: "Andrea López"
       bio: "Product Manager en la actualidad, y con mente de ingenieria informática. Me encanta ser PM por una razón simple: es uno de los roles donde realmente puedo hacer que los cambios sucedan. Empecé mi aventura laboral hace 13 años en el mundo corporativo, pero luego me pasé al mundo de las startups. Actualmente trabajo en una aplicación de juegos educativos para niños/as, siendo la única empresa española por la que the LEGO Foundation ha apostado."
+      photo: /images/speakers/andrea_lopez.jpeg
+      links:
+        - https://www.linkedin.com/in/andrealopezcastillo/
 
 - startTime: "13:00"
   endTime: "14:00"

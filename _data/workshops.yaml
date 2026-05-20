@@ -40,6 +40,9 @@
         Amplia experiencia en gestión de proyectos y productos, innovación, liderazgo, diseño organizacional y cultura en grandes organizaciones, como CaixaBank, Orange, Fujitsu, Banco Santander.
 
         Mentora en programas de emprendimiento como el Cybersecurity Startup Program organizado por Startup Valencia e Incibe.
+      photo: /images/speakers/sonia_montagud.jpeg
+      links:
+        - https://www.linkedin.com/in/soniamontagud/
 
 - startTime: "12:00"
   endTime: "14:00"
@@ -67,6 +70,7 @@
   speaker:
     - name: "Miguel Macías Enguídanos"
       bio: "Ingeniero informático con muchos años de experiencia en el sector (pasando por la empresa privada, la administración central, universidades...). Colaborando en proyectos de código abierto y dando charlas e impartiendo docencia en el ámbito de la seguridad, la identidad digital y la programación"
+      photo: /images/speakers/miguel_macias.jpeg
 
 - startTime: "16:00"
   endTime: "18:00"
@@ -81,3 +85,4 @@
     - name: "HackerSpace Valencia"
       bio: "Compartimos conocimiento, experiencia y pasión por la tecnología. Aquí todos enseñamos y todos aprendemos. Creemos en el software y hardware libre. Compartir es nuestra forma de innovar."
       photo: /images/communities/hackerspace_logo.jpeg
+      skip: true
